@@ -1,0 +1,1727 @@
+Timestamp,Value,Type
+11:49:30 PM.560,"Initializing DHT11...\r\n",received
+11:49:31 PM.363,"WiFi.status(): 0\r\n",received
+11:49:31 PM.363,"Current WiFi Firmware: 1.5.0\r\n",received
+11:49:31 PM.408,"Temperature: 27.40°C\r\n",received
+11:49:31 PM.408,"Cloud Temperature: 27.40\r\n",received
+11:49:35 PM.654,"Connection to \"Yugesh\" failed\r\n",received
+11:49:35 PM.654,"Retrying in  \"500\" milliseconds\r\n",received
+11:49:35 PM.669,"Temperature: 27.10°C\r\n",received
+11:49:35 PM.669,"Cloud Temperature: 27.10\r\n",received
+11:49:37 PM.889,"Connected to \"Yugesh\"\r\n",received
+11:49:37 PM.920,"Temperature: 27.10°C\r\n",received
+11:49:37 PM.920,"Cloud Temperature: 27.10\r\n",received
+11:49:40 PM.518,"Temperature: 27.10°C\r\n",received
+11:49:40 PM.518,"Cloud Temperature: 27.10\r\n",received
+11:49:50 PM.355,"Temperature: 27.10°C\r\n",received
+11:49:50 PM.355,"Cloud Temperature: 27.10\r\n",received
+11:49:52 PM.400,"Temperature: 27.10°C\r\n",received
+11:49:52 PM.400,"Cloud Temperature: 27.10\r\n",received
+11:49:54 PM.719,"Temperature: 27.10°C\r\n",received
+11:49:54 PM.719,"Cloud Temperature: 27.10\r\n",received
+11:49:57 PM.80,"Connected to Arduino IoT Cloud\r\n",received
+11:49:57 PM.80,"Thing ID: abe61ca4-2dd8-4d40-bee3-cb584d22ab47\r\n",received
+11:49:57 PM.110,"Temperature: 27.10°C\r\n",received
+11:49:57 PM.110,"Cloud Temperature: 27.10\r\n",received
+11:49:59 PM.152,"Temperature: 27.10°C\r\n",received
+11:49:59 PM.152,"Cloud Temperature: 27.10\r\n",received
+11:50:01 PM.178,"Temperature: 27.10°C\r\n",received
+11:50:01 PM.178,"Cloud Temperature: 27.10\r\n",received
+11:50:03 PM.224,"Temperature: 27.10°C\r\n",received
+11:50:03 PM.224,"Cloud Temperature: 27.10\r\n",received
+11:50:05 PM.267,"Temperature: 27.10°C\r\n",received
+11:50:05 PM.267,"Cloud Temperature: 27.10\r\n",received
+11:50:07 PM.345,"Temperature: 27.10°C\r\n",received
+11:50:07 PM.345,"Cloud Temperature: 27.10\r\n",received
+11:50:09 PM.390,"Temperature: 27.10°C\r\n",received
+11:50:09 PM.390,"Cloud Temperature: 27.10\r\n",received
+11:50:11 PM.432,"Temperature: 27.10°C\r\n",received
+11:50:11 PM.432,"Cloud Temperature: 27.10\r\n",received
+11:50:13 PM.476,"Temperature: 27.10°C\r\n",received
+11:50:13 PM.476,"Cloud Temperature: 27.10\r\n",received
+11:50:15 PM.525,"Temperature: 27.10°C\r\n",received
+11:50:15 PM.525,"Cloud Temperature: 27.10\r\n",received
+11:50:17 PM.572,"Temperature: 27.10°C\r\n",received
+11:50:17 PM.572,"Cloud Temperature: 27.10\r\n",received
+11:50:19 PM.630,"Temperature: 27.10°C\r\n",received
+11:50:19 PM.630,"Cloud Temperature: 27.10\r\n",received
+11:50:21 PM.679,"Temperature: 27.10°C\r\n",received
+11:50:21 PM.679,"Cloud Temperature: 27.10\r\n",received
+11:50:23 PM.739,"Temperature: 27.10°C\r\n",received
+11:50:23 PM.739,"Cloud Temperature: 27.10\r\n",received
+11:50:25 PM.780,"Temperature: 27.10°C\r\n",received
+11:50:25 PM.780,"Cloud Temperature: 27.10\r\n",received
+11:50:27 PM.829,"Temperature: 27.10°C\r\n",received
+11:50:27 PM.829,"Cloud Temperature: 27.10\r\n",received
+11:50:29 PM.878,"Temperature: 27.10°C\r\n",received
+11:50:29 PM.878,"Cloud Temperature: 27.10\r\n",received
+11:50:31 PM.936,"Temperature: 27.10°C\r\n",received
+11:50:31 PM.936,"Cloud Temperature: 27.10\r\n",received
+11:50:33 PM.981,"Temperature: 27.10°C\r\n",received
+11:50:33 PM.981,"Cloud Temperature: 27.10\r\n",received
+11:50:36 PM.33,"Temperature: 27.10°C\r\n",received
+11:50:36 PM.33,"Cloud Temperature: 27.10\r\n",received
+11:50:38 PM.75,"Temperature: 27.10°C\r\n",received
+11:50:38 PM.75,"Cloud Temperature: 27.10\r\n",received
+11:50:40 PM.127,"Temperature: 27.20°C\r\n",received
+11:50:40 PM.127,"Cloud Temperature: 27.20\r\n",received
+11:50:42 PM.180,"Temperature: 27.10°C\r\n",received
+11:50:42 PM.180,"Cloud Temperature: 27.10\r\n",received
+11:50:44 PM.228,"Temperature: 27.10°C\r\n",received
+11:50:44 PM.228,"Cloud Temperature: 27.10\r\n",received
+11:50:46 PM.281,"Temperature: 27.10°C\r\n",received
+11:50:46 PM.281,"Cloud Temperature: 27.10\r\n",received
+11:50:48 PM.336,"Temperature: 27.20°C\r\n",received
+11:50:48 PM.336,"Cloud Temperature: 27.20\r\n",received
+11:50:50 PM.373,"Temperature: 27.10°C\r\n",received
+11:50:50 PM.373,"Cloud Temperature: 27.10\r\n",received
+11:50:52 PM.444,"Temperature: 27.20°C\r\n",received
+11:50:52 PM.444,"Cloud Temperature: 27.20\r\n",received
+11:50:54 PM.498,"Temperature: 27.20°C\r\n",received
+11:50:54 PM.498,"Cloud Temperature: 27.20\r\n",received
+11:50:56 PM.535,"Temperature: 27.20°C\r\n",received
+11:50:56 PM.535,"Cloud Temperature: 27.20\r\n",received
+11:50:58 PM.593,"Temperature: 27.20°C\r\n",received
+11:50:58 PM.593,"Cloud Temperature: 27.20\r\n",received
+11:51:00 PM.635,"Temperature: 27.20°C\r\n",received
+11:51:00 PM.635,"Cloud Temperature: 27.20\r\n",received
+11:51:02 PM.680,"Temperature: 27.20°C\r\n",received
+11:51:02 PM.680,"Cloud Temperature: 27.20\r\n",received
+11:51:04 PM.723,"Temperature: 27.20°C\r\n",received
+11:51:04 PM.754,"Cloud Temperature: 27.20\r\n",received
+11:51:06 PM.797,"Temperature: 27.30°C\r\n",received
+11:51:06 PM.797,"Cloud Temperature: 27.30\r\n",received
+11:51:08 PM.840,"Temperature: 27.30°C\r\n",received
+11:51:08 PM.840,"Cloud Temperature: 27.30\r\n",received
+11:51:10 PM.885,"Temperature: 27.30°C\r\n",received
+11:51:10 PM.885,"Cloud Temperature: 27.30\r\n",received
+11:51:12 PM.942,"Temperature: 27.30°C\r\n",received
+11:51:12 PM.942,"Cloud Temperature: 27.30\r\n",received
+11:51:14 PM.989,"Temperature: 27.30°C\r\n",received
+11:51:14 PM.989,"Cloud Temperature: 27.30\r\n",received
+11:51:17 PM.28,"Temperature: 27.30°C\r\n",received
+11:51:17 PM.28,"Cloud Temperature: 27.30\r\n",received
+11:51:19 PM.75,"Temperature: 27.30°C\r\n",received
+11:51:19 PM.75,"Cloud Temperature: 27.30\r\n",received
+11:51:21 PM.149,"Temperature: 27.30°C\r\n",received
+11:51:21 PM.149,"Cloud Temperature: 27.30\r\n",received
+11:51:23 PM.200,"Temperature: 27.30°C\r\n",received
+11:51:23 PM.200,"Cloud Temperature: 27.30\r\n",received
+11:51:25 PM.244,"Temperature: 27.30°C\r\n",received
+11:51:25 PM.244,"Cloud Temperature: 27.30\r\n",received
+11:51:27 PM.296,"Temperature: 27.30°C\r\n",received
+11:51:27 PM.296,"Cloud Temperature: 27.30\r\n",received
+11:51:29 PM.343,"Temperature: 27.30°C\r\n",received
+11:51:29 PM.343,"Cloud Temperature: 27.30\r\n",received
+11:51:31 PM.386,"Temperature: 27.30°C\r\n",received
+11:51:31 PM.386,"Cloud Temperature: 27.30\r\n",received
+11:51:33 PM.431,"Temperature: 27.30°C\r\n",received
+11:51:33 PM.431,"Cloud Temperature: 27.30\r\n",received
+11:51:35 PM.498,"Temperature: 27.30°C\r\n",received
+11:51:35 PM.498,"Cloud Temperature: 27.30\r\n",received
+11:51:37 PM.544,"Temperature: 27.30°C\r\n",received
+11:51:37 PM.544,"Cloud Temperature: 27.30\r\n",received
+11:51:39 PM.601,"Temperature: 27.40°C\r\n",received
+11:51:39 PM.601,"Cloud Temperature: 27.40\r\n",received
+11:51:41 PM.637,"Temperature: 27.40°C\r\n",received
+11:51:41 PM.637,"Cloud Temperature: 27.40\r\n",received
+11:51:43 PM.697,"Temperature: 27.40°C\r\n",received
+11:51:43 PM.697,"Cloud Temperature: 27.40\r\n",received
+11:51:45 PM.745,"Temperature: 27.30°C\r\n",received
+11:51:45 PM.745,"Cloud Temperature: 27.30\r\n",received
+11:51:47 PM.809,"Temperature: 27.40°C\r\n",received
+11:51:47 PM.809,"Cloud Temperature: 27.40\r\n",received
+11:51:49 PM.855,"Temperature: 27.30°C\r\n",received
+11:51:49 PM.855,"Cloud Temperature: 27.30\r\n",received
+11:51:51 PM.899,"Temperature: 27.30°C\r\n",received
+11:51:51 PM.899,"Cloud Temperature: 27.30\r\n",received
+11:51:53 PM.944,"Temperature: 27.30°C\r\n",received
+11:51:53 PM.944,"Cloud Temperature: 27.30\r\n",received
+11:51:55 PM.992,"Temperature: 27.30°C\r\n",received
+11:51:55 PM.992,"Cloud Temperature: 27.30\r\n",received
+11:51:58 PM.39,"Temperature: 27.30°C\r\n",received
+11:51:58 PM.39,"Cloud Temperature: 27.30\r\n",received
+11:52:00 PM.96,"Temperature: 27.30°C\r\n",received
+11:52:00 PM.96,"Cloud Temperature: 27.30\r\n",received
+11:52:02 PM.131,"Temperature: 27.30°C\r\n",received
+11:52:02 PM.159,"Cloud Temperature: 27.30\r\n",received
+11:52:04 PM.207,"Temperature: 27.30°C\r\n",received
+11:52:04 PM.207,"Cloud Temperature: 27.30\r\n",received
+11:52:06 PM.250,"Temperature: 27.30°C\r\n",received
+11:52:06 PM.250,"Cloud Temperature: 27.30\r\n",received
+11:52:08 PM.295,"Temperature: 27.20°C\r\n",received
+11:52:08 PM.295,"Cloud Temperature: 27.20\r\n",received
+11:52:10 PM.348,"Temperature: 27.20°C\r\n",received
+11:52:10 PM.348,"Cloud Temperature: 27.20\r\n",received
+11:52:12 PM.395,"Temperature: 27.20°C\r\n",received
+11:52:12 PM.395,"Cloud Temperature: 27.20\r\n",received
+11:52:14 PM.441,"Temperature: 27.20°C\r\n",received
+11:52:14 PM.441,"Cloud Temperature: 27.20\r\n",received
+11:52:16 PM.494,"Temperature: 27.20°C\r\n",received
+11:52:16 PM.494,"Cloud Temperature: 27.20\r\n",received
+11:52:18 PM.561,"Temperature: 27.20°C\r\n",received
+11:52:18 PM.561,"Cloud Temperature: 27.20\r\n",received
+11:52:20 PM.596,"Temperature: 27.20°C\r\n",received
+11:52:20 PM.596,"Cloud Temperature: 27.20\r\n",received
+11:52:22 PM.653,"Temperature: 27.20°C\r\n",received
+11:52:22 PM.653,"Cloud Temperature: 27.20\r\n",received
+11:52:24 PM.705,"Temperature: 27.20°C\r\n",received
+11:52:24 PM.705,"Cloud Temperature: 27.20\r\n",received
+11:52:26 PM.745,"Temperature: 27.20°C\r\n",received
+11:52:26 PM.745,"Cloud Temperature: 27.20\r\n",received
+11:52:28 PM.802,"Temperature: 27.20°C\r\n",received
+11:52:28 PM.802,"Cloud Temperature: 27.20\r\n",received
+11:52:30 PM.835,"Temperature: 27.20°C\r\n",received
+11:52:30 PM.835,"Cloud Temperature: 27.20\r\n",received
+11:52:32 PM.896,"Temperature: 27.20°C\r\n",received
+11:52:32 PM.896,"Cloud Temperature: 27.20\r\n",received
+11:52:34 PM.956,"Temperature: 27.20°C\r\n",received
+11:52:34 PM.956,"Cloud Temperature: 27.20\r\n",received
+11:52:36 PM.995,"Temperature: 27.20°C\r\n",received
+11:52:36 PM.995,"Cloud Temperature: 27.20\r\n",received
+11:52:39 PM.54,"Temperature: 27.20°C\r\n",received
+11:52:39 PM.54,"Cloud Temperature: 27.20\r\n",received
+11:52:41 PM.98,"Temperature: 27.20°C\r\n",received
+11:52:41 PM.98,"Cloud Temperature: 27.20\r\n",received
+11:52:43 PM.144,"Temperature: 27.20°C\r\n",received
+11:52:43 PM.144,"Cloud Temperature: 27.20\r\n",received
+11:52:45 PM.194,"Temperature: 27.20°C\r\n",received
+11:52:45 PM.194,"Cloud Temperature: 27.20\r\n",received
+11:52:47 PM.238,"Temperature: 27.20°C\r\n",received
+11:52:47 PM.238,"Cloud Temperature: 27.20\r\n",received
+11:52:49 PM.283,"Temperature: 27.20°C\r\n",received
+11:52:49 PM.301,"Cloud Temperature: 27.20\r\n",received
+11:52:51 PM.352,"Temperature: 27.20°C\r\n",received
+11:52:51 PM.352,"Cloud Temperature: 27.20\r\n",received
+11:52:53 PM.401,"Temperature: 27.20°C\r\n",received
+11:52:53 PM.401,"Cloud Temperature: 27.20\r\n",received
+11:52:55 PM.457,"Temperature: 27.20°C\r\n",received
+11:52:55 PM.457,"Cloud Temperature: 27.20\r\n",received
+11:52:57 PM.504,"Temperature: 27.20°C\r\n",received
+11:52:57 PM.504,"Cloud Temperature: 27.20\r\n",received
+11:52:59 PM.547,"Temperature: 27.20°C\r\n",received
+11:52:59 PM.547,"Cloud Temperature: 27.20\r\n",received
+11:53:01 PM.593,"Temperature: 27.20°C\r\n",received
+11:53:01 PM.593,"Cloud Temperature: 27.20\r\n",received
+11:53:03 PM.643,"Temperature: 27.20°C\r\n",received
+11:53:03 PM.643,"Cloud Temperature: 27.20\r\n",received
+11:53:05 PM.690,"Temperature: 27.20°C\r\n",received
+11:53:05 PM.690,"Cloud Temperature: 27.20\r\n",received
+11:53:07 PM.752,"Temperature: 27.20°C\r\n",received
+11:53:07 PM.752,"Cloud Temperature: 27.20\r\n",received
+11:53:09 PM.797,"Temperature: 27.20°C\r\n",received
+11:53:09 PM.797,"Cloud Temperature: 27.20\r\n",received
+11:53:11 PM.856,"Temperature: 27.20°C\r\n",received
+11:53:11 PM.856,"Cloud Temperature: 27.20\r\n",received
+11:53:13 PM.900,"Temperature: 27.20°C\r\n",received
+11:53:13 PM.900,"Cloud Temperature: 27.20\r\n",received
+11:53:15 PM.949,"Temperature: 27.20°C\r\n",received
+11:53:15 PM.949,"Cloud Temperature: 27.20\r\n",received
+11:53:17 PM.992,"Temperature: 27.20°C\r\n",received
+11:53:17 PM.992,"Cloud Temperature: 27.20\r\n",received
+11:53:20 PM.48,"Temperature: 27.20°C\r\n",received
+11:53:20 PM.48,"Cloud Temperature: 27.20\r\n",received
+11:53:22 PM.85,"Temperature: 27.20°C\r\n",received
+11:53:22 PM.85,"Cloud Temperature: 27.20\r\n",received
+11:53:24 PM.134,"Temperature: 27.20°C\r\n",received
+11:53:24 PM.134,"Cloud Temperature: 27.20\r\n",received
+11:53:26 PM.196,"Temperature: 27.30°C\r\n",received
+11:53:26 PM.196,"Cloud Temperature: 27.30\r\n",received
+11:53:28 PM.258,"Temperature: 27.30°C\r\n",received
+11:53:28 PM.258,"Cloud Temperature: 27.30\r\n",received
+11:53:30 PM.291,"Temperature: 27.20°C\r\n",received
+11:53:30 PM.291,"Cloud Temperature: 27.20\r\n",received
+11:53:32 PM.350,"Temperature: 27.30°C\r\n",received
+11:53:32 PM.350,"Cloud Temperature: 27.30\r\n",received
+11:53:34 PM.400,"Temperature: 27.30°C\r\n",received
+11:53:34 PM.400,"Cloud Temperature: 27.30\r\n",received
+11:53:36 PM.464,"Temperature: 27.30°C\r\n",received
+11:53:36 PM.464,"Cloud Temperature: 27.30\r\n",received
+11:53:38 PM.506,"Temperature: 27.30°C\r\n",received
+11:53:38 PM.506,"Cloud Temperature: 27.30\r\n",received
+11:53:40 PM.555,"Temperature: 27.30°C\r\n",received
+11:53:40 PM.555,"Cloud Temperature: 27.30\r\n",received
+11:53:42 PM.599,"Temperature: 27.30°C\r\n",received
+11:53:42 PM.599,"Cloud Temperature: 27.30\r\n",received
+11:53:44 PM.645,"Temperature: 27.30°C\r\n",received
+11:53:44 PM.645,"Cloud Temperature: 27.30\r\n",received
+11:53:46 PM.694,"Temperature: 27.30°C\r\n",received
+11:53:46 PM.694,"Cloud Temperature: 27.30\r\n",received
+11:53:48 PM.751,"Temperature: 27.30°C\r\n",received
+11:53:48 PM.751,"Cloud Temperature: 27.30\r\n",received
+11:53:50 PM.796,"Temperature: 27.30°C\r\n",received
+11:53:50 PM.796,"Cloud Temperature: 27.30\r\n",received
+11:53:52 PM.845,"Temperature: 27.30°C\r\n",received
+11:53:52 PM.845,"Cloud Temperature: 27.30\r\n",received
+11:53:54 PM.908,"Temperature: 27.40°C\r\n",received
+11:53:54 PM.908,"Cloud Temperature: 27.40\r\n",received
+11:53:56 PM.959,"Temperature: 27.40°C\r\n",received
+11:53:56 PM.959,"Cloud Temperature: 27.40\r\n",received
+11:53:58 PM.997,"Temperature: 27.30°C\r\n",received
+11:53:58 PM.997,"Cloud Temperature: 27.30\r\n",received
+11:54:01 PM.43,"Temperature: 27.30°C\r\n",received
+11:54:01 PM.43,"Cloud Temperature: 27.30\r\n",received
+11:54:03 PM.100,"Temperature: 27.30°C\r\n",received
+11:54:03 PM.100,"Cloud Temperature: 27.30\r\n",received
+11:54:05 PM.139,"Temperature: 27.40°C\r\n",received
+11:54:05 PM.162,"Cloud Temperature: 27.40\r\n",received
+11:54:07 PM.208,"Temperature: 27.30°C\r\n",received
+11:54:07 PM.208,"Cloud Temperature: 27.30\r\n",received
+11:54:09 PM.253,"Temperature: 27.30°C\r\n",received
+11:54:09 PM.253,"Cloud Temperature: 27.30\r\n",received
+11:54:11 PM.304,"Temperature: 27.30°C\r\n",received
+11:54:11 PM.304,"Cloud Temperature: 27.30\r\n",received
+11:54:13 PM.355,"Temperature: 27.30°C\r\n",received
+11:54:13 PM.355,"Cloud Temperature: 27.30\r\n",received
+11:54:15 PM.403,"Temperature: 27.30°C\r\n",received
+11:54:15 PM.403,"Cloud Temperature: 27.30\r\n",received
+11:54:17 PM.443,"Temperature: 27.30°C\r\n",received
+11:54:17 PM.464,"Cloud Temperature: 27.30\r\n",received
+11:54:19 PM.508,"Temperature: 27.30°C\r\n",received
+11:54:19 PM.508,"Cloud Temperature: 27.30\r\n",received
+11:54:21 PM.568,"Temperature: 27.30°C\r\n",received
+11:54:21 PM.568,"Cloud Temperature: 27.30\r\n",received
+11:54:23 PM.612,"Temperature: 27.30°C\r\n",received
+11:54:23 PM.612,"Cloud Temperature: 27.30\r\n",received
+11:54:25 PM.654,"Temperature: 27.30°C\r\n",received
+11:54:25 PM.654,"Cloud Temperature: 27.30\r\n",received
+11:54:27 PM.702,"Temperature: 27.30°C\r\n",received
+11:54:27 PM.702,"Cloud Temperature: 27.30\r\n",received
+11:54:29 PM.750,"Temperature: 27.30°C\r\n",received
+11:54:29 PM.750,"Cloud Temperature: 27.30\r\n",received
+11:54:31 PM.810,"Temperature: 27.40°C\r\n",received
+11:54:31 PM.810,"Cloud Temperature: 27.40\r\n",received
+11:54:33 PM.860,"Temperature: 27.30°C\r\n",received
+11:54:33 PM.860,"Cloud Temperature: 27.30\r\n",received
+11:54:35 PM.920,"Temperature: 27.30°C\r\n",received
+11:54:35 PM.920,"Cloud Temperature: 27.30\r\n",received
+11:54:37 PM.968,"Temperature: 27.40°C\r\n",received
+11:54:37 PM.968,"Cloud Temperature: 27.40\r\n",received
+11:54:40 PM.6,"Temperature: 27.30°C\r\n",received
+11:54:40 PM.6,"Cloud Temperature: 27.30\r\n",received
+11:54:42 PM.51,"Temperature: 27.40°C\r\n",received
+11:54:42 PM.73,"Cloud Temperature: 27.40\r\n",received
+11:54:44 PM.116,"Temperature: 27.40°C\r\n",received
+11:54:44 PM.116,"Cloud Temperature: 27.40\r\n",received
+11:54:46 PM.169,"Temperature: 27.40°C\r\n",received
+11:54:46 PM.169,"Cloud Temperature: 27.40\r\n",received
+11:54:48 PM.217,"Temperature: 27.40°C\r\n",received
+11:54:48 PM.217,"Cloud Temperature: 27.40\r\n",received
+11:54:50 PM.266,"Temperature: 27.40°C\r\n",received
+11:54:50 PM.266,"Cloud Temperature: 27.40\r\n",received
+11:54:52 PM.312,"Temperature: 27.40°C\r\n",received
+11:54:52 PM.312,"Cloud Temperature: 27.40\r\n",received
+11:54:54 PM.356,"Temperature: 27.40°C\r\n",received
+11:54:54 PM.356,"Cloud Temperature: 27.40\r\n",received
+11:54:56 PM.410,"Temperature: 27.40°C\r\n",received
+11:54:56 PM.410,"Cloud Temperature: 27.40\r\n",received
+11:54:58 PM.451,"Temperature: 27.40°C\r\n",received
+11:54:58 PM.471,"Cloud Temperature: 27.40\r\n",received
+11:55:00 PM.530,"Temperature: 27.40°C\r\n",received
+11:55:00 PM.530,"Cloud Temperature: 27.40\r\n",received
+11:55:02 PM.577,"Temperature: 27.40°C\r\n",received
+11:55:02 PM.577,"Cloud Temperature: 27.40\r\n",received
+11:55:04 PM.624,"Temperature: 27.40°C\r\n",received
+11:55:04 PM.624,"Cloud Temperature: 27.40\r\n",received
+11:55:06 PM.671,"Temperature: 27.40°C\r\n",received
+11:55:06 PM.671,"Cloud Temperature: 27.40\r\n",received
+11:55:08 PM.721,"Temperature: 27.50°C\r\n",received
+11:55:08 PM.721,"Cloud Temperature: 27.50\r\n",received
+11:55:10 PM.762,"Temperature: 27.50°C\r\n",received
+11:55:10 PM.762,"Cloud Temperature: 27.50\r\n",received
+11:55:12 PM.803,"Temperature: 27.40°C\r\n",received
+11:55:12 PM.826,"Cloud Temperature: 27.40\r\n",received
+11:55:14 PM.871,"Temperature: 27.50°C\r\n",received
+11:55:14 PM.871,"Cloud Temperature: 27.50\r\n",received
+11:55:16 PM.917,"Temperature: 27.50°C\r\n",received
+11:55:16 PM.917,"Cloud Temperature: 27.50\r\n",received
+11:55:18 PM.970,"Temperature: 27.50°C\r\n",received
+11:55:18 PM.970,"Cloud Temperature: 27.50\r\n",received
+11:55:21 PM.18,"Temperature: 27.50°C\r\n",received
+11:55:21 PM.18,"Cloud Temperature: 27.50\r\n",received
+11:55:23 PM.65,"Temperature: 27.50°C\r\n",received
+11:55:23 PM.65,"Cloud Temperature: 27.50\r\n",received
+11:55:25 PM.117,"Temperature: 27.50°C\r\n",received
+11:55:25 PM.117,"Cloud Temperature: 27.50\r\n",received
+11:55:27 PM.169,"Temperature: 27.50°C\r\n",received
+11:55:27 PM.169,"Cloud Temperature: 27.50\r\n",received
+11:55:29 PM.221,"Temperature: 27.40°C\r\n",received
+11:55:29 PM.221,"Cloud Temperature: 27.40\r\n",received
+11:55:31 PM.279,"Temperature: 27.50°C\r\n",received
+11:55:31 PM.279,"Cloud Temperature: 27.50\r\n",received
+11:55:33 PM.310,"Temperature: 27.50°C\r\n",received
+11:55:33 PM.325,"Cloud Temperature: 27.50\r\n",received
+11:55:35 PM.374,"Temperature: 27.50°C\r\n",received
+11:55:35 PM.374,"Cloud Temperature: 27.50\r\n",received
+11:55:37 PM.422,"Temperature: 27.50°C\r\n",received
+11:55:37 PM.422,"Cloud Temperature: 27.50\r\n",received
+11:55:39 PM.469,"Temperature: 27.50°C\r\n",received
+11:55:39 PM.469,"Cloud Temperature: 27.50\r\n",received
+11:55:41 PM.507,"Temperature: 27.50°C\r\n",received
+11:55:41 PM.507,"Cloud Temperature: 27.50\r\n",received
+11:55:43 PM.585,"Temperature: 27.50°C\r\n",received
+11:55:43 PM.585,"Cloud Temperature: 27.50\r\n",received
+11:55:45 PM.620,"Temperature: 27.50°C\r\n",received
+11:55:45 PM.620,"Cloud Temperature: 27.50\r\n",received
+11:55:47 PM.669,"Temperature: 27.60°C\r\n",received
+11:55:47 PM.669,"Cloud Temperature: 27.60\r\n",received
+11:55:49 PM.722,"Temperature: 27.60°C\r\n",received
+11:55:49 PM.722,"Cloud Temperature: 27.60\r\n",received
+11:55:51 PM.766,"Temperature: 27.50°C\r\n",received
+11:55:51 PM.766,"Cloud Temperature: 27.50\r\n",received
+11:55:53 PM.812,"Temperature: 27.60°C\r\n",received
+11:55:53 PM.812,"Cloud Temperature: 27.60\r\n",received
+11:55:55 PM.884,"Temperature: 27.60°C\r\n",received
+11:55:55 PM.884,"Cloud Temperature: 27.60\r\n",received
+11:55:57 PM.936,"Temperature: 27.60°C\r\n",received
+11:55:57 PM.936,"Cloud Temperature: 27.60\r\n",received
+11:55:59 PM.979,"Temperature: 27.60°C\r\n",received
+11:55:59 PM.979,"Cloud Temperature: 27.60\r\n",received
+11:56:02 PM.23,"Temperature: 27.60°C\r\n",received
+11:56:02 PM.23,"Cloud Temperature: 27.60\r\n",received
+11:56:04 PM.78,"Temperature: 27.60°C\r\n",received
+11:56:04 PM.78,"Cloud Temperature: 27.60\r\n",received
+11:56:06 PM.119,"Temperature: 27.60°C\r\n",received
+11:56:06 PM.119,"Cloud Temperature: 27.60\r\n",received
+11:56:08 PM.169,"Temperature: 27.60°C\r\n",received
+11:56:08 PM.169,"Cloud Temperature: 27.60\r\n",received
+11:56:10 PM.219,"Temperature: 27.60°C\r\n",received
+11:56:10 PM.219,"Cloud Temperature: 27.60\r\n",received
+11:56:12 PM.274,"Temperature: 27.60°C\r\n",received
+11:56:12 PM.274,"Cloud Temperature: 27.60\r\n",received
+11:56:14 PM.317,"Temperature: 27.60°C\r\n",received
+11:56:14 PM.317,"Cloud Temperature: 27.60\r\n",received
+11:56:16 PM.385,"Temperature: 27.60°C\r\n",received
+11:56:16 PM.385,"Cloud Temperature: 27.60\r\n",received
+11:56:18 PM.426,"Temperature: 27.60°C\r\n",received
+11:56:18 PM.426,"Cloud Temperature: 27.60\r\n",received
+11:56:20 PM.476,"Temperature: 27.60°C\r\n",received
+11:56:20 PM.476,"Cloud Temperature: 27.60\r\n",received
+11:56:22 PM.518,"Temperature: 27.60°C\r\n",received
+11:56:22 PM.518,"Cloud Temperature: 27.60\r\n",received
+11:56:24 PM.565,"Temperature: 27.60°C\r\n",received
+11:56:24 PM.565,"Cloud Temperature: 27.60\r\n",received
+11:56:26 PM.621,"Temperature: 27.60°C\r\n",received
+11:56:26 PM.621,"Cloud Temperature: 27.60\r\n",received
+11:56:28 PM.671,"Temperature: 27.60°C\r\n",received
+11:56:28 PM.671,"Cloud Temperature: 27.60\r\n",received
+11:56:30 PM.717,"Temperature: 27.60°C\r\n",received
+11:56:30 PM.717,"Cloud Temperature: 27.60\r\n",received
+11:56:32 PM.764,"Temperature: 27.60°C\r\n",received
+11:56:32 PM.764,"Cloud Temperature: 27.60\r\n",received
+11:56:34 PM.816,"Temperature: 27.60°C\r\n",received
+11:56:34 PM.816,"Cloud Temperature: 27.60\r\n",received
+11:56:36 PM.881,"Temperature: 27.60°C\r\n",received
+11:56:36 PM.881,"Cloud Temperature: 27.60\r\n",received
+11:56:38 PM.917,"Temperature: 27.60°C\r\n",received
+11:56:38 PM.917,"Cloud Temperature: 27.60\r\n",received
+11:56:40 PM.971,"Temperature: 27.60°C\r\n",received
+11:56:40 PM.971,"Cloud Temperature: 27.60\r\n",received
+11:56:43 PM.22,"Temperature: 27.60°C\r\n",received
+11:56:43 PM.22,"Cloud Temperature: 27.60\r\n",received
+11:56:45 PM.59,"Temperature: 27.60°C\r\n",received
+11:56:45 PM.59,"Cloud Temperature: 27.60\r\n",received
+11:56:47 PM.116,"Temperature: 27.60°C\r\n",received
+11:56:47 PM.116,"Cloud Temperature: 27.60\r\n",received
+11:56:49 PM.163,"Temperature: 27.60°C\r\n",received
+11:56:49 PM.163,"Cloud Temperature: 27.60\r\n",received
+11:56:51 PM.208,"Temperature: 27.60°C\r\n",received
+11:56:51 PM.208,"Cloud Temperature: 27.60\r\n",received
+11:56:53 PM.263,"Temperature: 27.60°C\r\n",received
+11:56:53 PM.263,"Cloud Temperature: 27.60\r\n",received
+11:56:55 PM.305,"Temperature: 27.60°C\r\n",received
+11:56:55 PM.305,"Cloud Temperature: 27.60\r\n",received
+11:56:57 PM.365,"Temperature: 27.60°C\r\n",received
+11:56:57 PM.365,"Cloud Temperature: 27.60\r\n",received
+11:56:59 PM.411,"Temperature: 27.60°C\r\n",received
+11:56:59 PM.411,"Cloud Temperature: 27.60\r\n",received
+11:57:01 PM.473,"Temperature: 27.60°C\r\n",received
+11:57:01 PM.473,"Cloud Temperature: 27.60\r\n",received
+11:57:03 PM.513,"Temperature: 27.60°C\r\n",received
+11:57:03 PM.513,"Cloud Temperature: 27.60\r\n",received
+11:57:05 PM.565,"Temperature: 27.60°C\r\n",received
+11:57:05 PM.565,"Cloud Temperature: 27.60\r\n",received
+11:57:07 PM.616,"Temperature: 27.60°C\r\n",received
+11:57:07 PM.616,"Cloud Temperature: 27.60\r\n",received
+11:57:09 PM.661,"Temperature: 27.60°C\r\n",received
+11:57:09 PM.661,"Cloud Temperature: 27.60\r\n",received
+11:57:11 PM.708,"Temperature: 27.60°C\r\n",received
+11:57:11 PM.708,"Cloud Temperature: 27.60\r\n",received
+11:57:13 PM.753,"Temperature: 27.60°C\r\n",received
+11:57:13 PM.753,"Cloud Temperature: 27.60\r\n",received
+11:57:15 PM.799,"Temperature: 27.60°C\r\n",received
+11:57:15 PM.799,"Cloud Temperature: 27.60\r\n",received
+11:57:17 PM.850,"Temperature: 27.60°C\r\n",received
+11:57:17 PM.850,"Cloud Temperature: 27.60\r\n",received
+11:57:19 PM.891,"Temperature: 27.60°C\r\n",received
+11:57:19 PM.911,"Cloud Temperature: 27.60\r\n",received
+11:57:21 PM.964,"Temperature: 27.60°C\r\n",received
+11:57:21 PM.964,"Cloud Temperature: 27.60\r\n",received
+11:57:24 PM.10,"Temperature: 27.60°C\r\n",received
+11:57:24 PM.10,"Cloud Temperature: 27.60\r\n",received
+11:57:26 PM.62,"Temperature: 27.60°C\r\n",received
+11:57:26 PM.62,"Cloud Temperature: 27.60\r\n",received
+11:57:28 PM.101,"Temperature: 27.60°C\r\n",received
+11:57:28 PM.101,"Cloud Temperature: 27.60\r\n",received
+11:57:30 PM.148,"Temperature: 27.60°C\r\n",received
+11:57:30 PM.148,"Cloud Temperature: 27.60\r\n",received
+11:57:32 PM.205,"Temperature: 27.60°C\r\n",received
+11:57:32 PM.205,"Cloud Temperature: 27.60\r\n",received
+11:57:34 PM.249,"Temperature: 27.60°C\r\n",received
+11:57:34 PM.249,"Cloud Temperature: 27.60\r\n",received
+11:57:36 PM.295,"Temperature: 27.60°C\r\n",received
+11:57:36 PM.295,"Cloud Temperature: 27.60\r\n",received
+11:57:38 PM.342,"Temperature: 27.60°C\r\n",received
+11:57:38 PM.342,"Cloud Temperature: 27.60\r\n",received
+11:57:40 PM.393,"Temperature: 27.60°C\r\n",received
+11:57:40 PM.393,"Cloud Temperature: 27.60\r\n",received
+11:57:42 PM.458,"Temperature: 27.60°C\r\n",received
+11:57:42 PM.458,"Cloud Temperature: 27.60\r\n",received
+11:57:44 PM.504,"Temperature: 27.60°C\r\n",received
+11:57:44 PM.504,"Cloud Temperature: 27.60\r\n",received
+11:57:46 PM.553,"Temperature: 27.60°C\r\n",received
+11:57:46 PM.553,"Cloud Temperature: 27.60\r\n",received
+11:57:48 PM.600,"Temperature: 27.60°C\r\n",received
+11:57:48 PM.600,"Cloud Temperature: 27.60\r\n",received
+11:57:50 PM.643,"Temperature: 27.60°C\r\n",received
+11:57:50 PM.643,"Cloud Temperature: 27.60\r\n",received
+11:57:52 PM.696,"Temperature: 27.60°C\r\n",received
+11:57:52 PM.696,"Cloud Temperature: 27.60\r\n",received
+11:57:54 PM.746,"Temperature: 27.60°C\r\n",received
+11:57:54 PM.746,"Cloud Temperature: 27.60\r\n",received
+11:57:56 PM.801,"Temperature: 27.60°C\r\n",received
+11:57:56 PM.801,"Cloud Temperature: 27.60\r\n",received
+11:57:58 PM.835,"Temperature: 27.60°C\r\n",received
+11:57:58 PM.835,"Cloud Temperature: 27.60\r\n",received
+11:58:00 PM.889,"Temperature: 27.60°C\r\n",received
+11:58:00 PM.889,"Cloud Temperature: 27.60\r\n",received
+11:58:02 PM.931,"Temperature: 27.60°C\r\n",received
+11:58:02 PM.953,"Cloud Temperature: 27.60\r\n",received
+11:58:05 PM.5,"Temperature: 27.60°C\r\n",received
+11:58:05 PM.5,"Cloud Temperature: 27.60\r\n",received
+11:58:07 PM.56,"Temperature: 27.60°C\r\n",received
+11:58:07 PM.56,"Cloud Temperature: 27.60\r\n",received
+11:58:09 PM.94,"Temperature: 27.60°C\r\n",received
+11:58:09 PM.94,"Cloud Temperature: 27.60\r\n",received
+11:58:11 PM.146,"Temperature: 27.60°C\r\n",received
+11:58:11 PM.146,"Cloud Temperature: 27.60\r\n",received
+11:58:13 PM.199,"Temperature: 27.60°C\r\n",received
+11:58:13 PM.199,"Cloud Temperature: 27.60\r\n",received
+11:58:15 PM.239,"Temperature: 27.60°C\r\n",received
+11:58:15 PM.239,"Cloud Temperature: 27.60\r\n",received
+11:58:17 PM.284,"Temperature: 27.60°C\r\n",received
+11:58:17 PM.284,"Cloud Temperature: 27.60\r\n",received
+11:58:19 PM.335,"Temperature: 27.60°C\r\n",received
+11:58:19 PM.335,"Cloud Temperature: 27.60\r\n",received
+11:58:21 PM.389,"Temperature: 27.60°C\r\n",received
+11:58:21 PM.389,"Cloud Temperature: 27.60\r\n",received
+11:58:23 PM.427,"Temperature: 27.60°C\r\n",received
+11:58:23 PM.457,"Cloud Temperature: 27.60\r\n",received
+11:58:25 PM.506,"Temperature: 27.60°C\r\n",received
+11:58:25 PM.506,"Cloud Temperature: 27.60\r\n",received
+11:58:27 PM.553,"Temperature: 27.60°C\r\n",received
+11:58:27 PM.553,"Cloud Temperature: 27.60\r\n",received
+11:58:29 PM.590,"Temperature: 27.60°C\r\n",received
+11:58:29 PM.590,"Cloud Temperature: 27.60\r\n",received
+11:58:31 PM.637,"Temperature: 27.60°C\r\n",received
+11:58:31 PM.637,"Cloud Temperature: 27.60\r\n",received
+11:58:33 PM.689,"Temperature: 27.60°C\r\n",received
+11:58:33 PM.689,"Cloud Temperature: 27.60\r\n",received
+11:58:35 PM.742,"Temperature: 27.60°C\r\n",received
+11:58:35 PM.742,"Cloud Temperature: 27.60\r\n",received
+11:58:37 PM.780,"Temperature: 27.60°C\r\n",received
+11:58:37 PM.780,"Cloud Temperature: 27.60\r\n",received
+11:58:39 PM.828,"Temperature: 27.60°C\r\n",received
+11:58:39 PM.828,"Cloud Temperature: 27.60\r\n",received
+11:58:41 PM.897,"Temperature: 27.60°C\r\n",received
+11:58:41 PM.897,"Cloud Temperature: 27.60\r\n",received
+11:58:43 PM.945,"Temperature: 27.60°C\r\n",received
+11:58:43 PM.945,"Cloud Temperature: 27.60\r\n",received
+11:58:45 PM.998,"Temperature: 27.60°C\r\n",received
+11:58:45 PM.998,"Cloud Temperature: 27.60\r\n",received
+11:58:48 PM.35,"Temperature: 27.60°C\r\n",received
+11:58:48 PM.35,"Cloud Temperature: 27.60\r\n",received
+11:58:50 PM.92,"Temperature: 27.60°C\r\n",received
+11:58:50 PM.92,"Cloud Temperature: 27.60\r\n",received
+11:58:52 PM.132,"Temperature: 27.60°C\r\n",received
+11:58:52 PM.132,"Cloud Temperature: 27.60\r\n",received
+11:58:54 PM.184,"Temperature: 27.60°C\r\n",received
+11:58:54 PM.184,"Cloud Temperature: 27.60\r\n",received
+11:58:56 PM.234,"Temperature: 27.60°C\r\n",received
+11:58:56 PM.234,"Cloud Temperature: 27.60\r\n",received
+11:58:58 PM.281,"Temperature: 27.60°C\r\n",received
+11:58:58 PM.281,"Cloud Temperature: 27.60\r\n",received
+11:59:00 PM.330,"Temperature: 27.60°C\r\n",received
+11:59:00 PM.330,"Cloud Temperature: 27.60\r\n",received
+11:59:02 PM.384,"Temperature: 27.60°C\r\n",received
+11:59:02 PM.384,"Cloud Temperature: 27.60\r\n",received
+11:59:04 PM.444,"Temperature: 27.60°C\r\n",received
+11:59:04 PM.444,"Cloud Temperature: 27.60\r\n",received
+11:59:06 PM.470,"Temperature: 27.60°C\r\n",received
+11:59:06 PM.488,"Cloud Temperature: 27.60\r\n",received
+11:59:08 PM.544,"Temperature: 27.60°C\r\n",received
+11:59:08 PM.544,"Cloud Temperature: 27.60\r\n",received
+11:59:10 PM.586,"Temperature: 27.60°C\r\n",received
+11:59:10 PM.586,"Cloud Temperature: 27.60\r\n",received
+11:59:12 PM.636,"Temperature: 27.60°C\r\n",received
+11:59:12 PM.636,"Cloud Temperature: 27.60\r\n",received
+11:59:14 PM.685,"Temperature: 27.60°C\r\n",received
+11:59:14 PM.685,"Cloud Temperature: 27.60\r\n",received
+11:59:16 PM.738,"Temperature: 27.60°C\r\n",received
+11:59:16 PM.738,"Cloud Temperature: 27.60\r\n",received
+11:59:18 PM.783,"Temperature: 27.60°C\r\n",received
+11:59:18 PM.783,"Cloud Temperature: 27.60\r\n",received
+11:59:20 PM.910,"Temperature: 27.60°C\r\n",received
+11:59:20 PM.910,"Cloud Temperature: 27.60\r\n",received
+11:59:22 PM.879,"Temperature: 27.60°C\r\n",received
+11:59:22 PM.879,"Cloud Temperature: 27.60\r\n",received
+11:59:24 PM.943,"Temperature: 27.60°C\r\n",received
+11:59:24 PM.943,"Cloud Temperature: 27.60\r\n",received
+11:59:26 PM.982,"Temperature: 27.60°C\r\n",received
+11:59:26 PM.982,"Cloud Temperature: 27.60\r\n",received
+11:59:29 PM.32,"Temperature: 27.60°C\r\n",received
+11:59:29 PM.32,"Cloud Temperature: 27.60\r\n",received
+11:59:31 PM.74,"Temperature: 27.60°C\r\n",received
+11:59:31 PM.74,"Cloud Temperature: 27.60\r\n",received
+11:59:33 PM.130,"Temperature: 27.60°C\r\n",received
+11:59:33 PM.130,"Cloud Temperature: 27.60\r\n",received
+11:59:35 PM.182,"Temperature: 27.60°C\r\n",received
+11:59:35 PM.182,"Cloud Temperature: 27.60\r\n",received
+11:59:37 PM.233,"Temperature: 27.60°C\r\n",received
+11:59:37 PM.233,"Cloud Temperature: 27.60\r\n",received
+11:59:39 PM.271,"Temperature: 27.60°C\r\n",received
+11:59:39 PM.271,"Cloud Temperature: 27.60\r\n",received
+11:59:41 PM.324,"Temperature: 27.60°C\r\n",received
+11:59:41 PM.324,"Cloud Temperature: 27.60\r\n",received
+11:59:43 PM.367,"Temperature: 27.60°C\r\n",received
+11:59:43 PM.367,"Cloud Temperature: 27.60\r\n",received
+11:59:45 PM.415,"Temperature: 27.60°C\r\n",received
+11:59:45 PM.415,"Cloud Temperature: 27.60\r\n",received
+11:59:47 PM.463,"Temperature: 27.60°C\r\n",received
+11:59:47 PM.463,"Cloud Temperature: 27.60\r\n",received
+11:59:49 PM.528,"Temperature: 27.60°C\r\n",received
+11:59:49 PM.528,"Cloud Temperature: 27.60\r\n",received
+11:59:51 PM.583,"Temperature: 27.60°C\r\n",received
+11:59:51 PM.583,"Cloud Temperature: 27.60\r\n",received
+11:59:53 PM.628,"Temperature: 27.60°C\r\n",received
+11:59:53 PM.628,"Cloud Temperature: 27.60\r\n",received
+11:59:55 PM.674,"Temperature: 27.60°C\r\n",received
+11:59:55 PM.674,"Cloud Temperature: 27.60\r\n",received
+11:59:57 PM.729,"Temperature: 27.60°C\r\n",received
+11:59:57 PM.729,"Cloud Temperature: 27.60\r\n",received
+11:59:59 PM.766,"Temperature: 27.60°C\r\n",received
+11:59:59 PM.766,"Cloud Temperature: 27.60\r\n",received
+12:00:01 AM.818,"Temperature: 27.60°C\r\n",received
+12:00:01 AM.818,"Cloud Temperature: 27.60\r\n",received
+12:00:03 AM.872,"Temperature: 27.60°C\r\n",received
+12:00:03 AM.872,"Cloud Temperature: 27.60\r\n",received
+12:00:05 AM.911,"Temperature: 27.60°C\r\n",received
+12:00:05 AM.911,"Cloud Temperature: 27.60\r\n",received
+12:00:07 AM.963,"Temperature: 27.60°C\r\n",received
+12:00:07 AM.963,"Cloud Temperature: 27.60\r\n",received
+12:00:10 AM.10,"Temperature: 27.60°C\r\n",received
+12:00:10 AM.10,"Cloud Temperature: 27.60\r\n",received
+12:00:12 AM.55,"Temperature: 27.60°C\r\n",received
+12:00:12 AM.55,"Cloud Temperature: 27.60\r\n",received
+12:00:14 AM.111,"Temperature: 27.60°C\r\n",received
+12:00:14 AM.111,"Cloud Temperature: 27.60\r\n",received
+12:00:16 AM.163,"Temperature: 27.60°C\r\n",received
+12:00:16 AM.163,"Cloud Temperature: 27.60\r\n",received
+12:00:18 AM.211,"Temperature: 27.60°C\r\n",received
+12:00:18 AM.211,"Cloud Temperature: 27.60\r\n",received
+12:00:20 AM.261,"Temperature: 27.60°C\r\n",received
+12:00:20 AM.261,"Cloud Temperature: 27.60\r\n",received
+12:00:22 AM.308,"Temperature: 27.60°C\r\n",received
+12:00:22 AM.308,"Cloud Temperature: 27.60\r\n",received
+12:00:24 AM.359,"Temperature: 27.60°C\r\n",received
+12:00:24 AM.359,"Cloud Temperature: 27.60\r\n",received
+12:00:26 AM.411,"Temperature: 27.60°C\r\n",received
+12:00:26 AM.411,"Cloud Temperature: 27.60\r\n",received
+12:00:28 AM.463,"Temperature: 27.60°C\r\n",received
+12:00:28 AM.463,"Cloud Temperature: 27.60\r\n",received
+12:00:30 AM.512,"Temperature: 27.60°C\r\n",received
+12:00:30 AM.512,"Cloud Temperature: 27.60\r\n",received
+12:00:32 AM.551,"Temperature: 27.60°C\r\n",received
+12:00:32 AM.551,"Cloud Temperature: 27.60\r\n",received
+12:00:34 AM.602,"Temperature: 27.60°C\r\n",received
+12:00:34 AM.602,"Cloud Temperature: 27.60\r\n",received
+12:00:36 AM.655,"Temperature: 27.60°C\r\n",received
+12:00:36 AM.655,"Cloud Temperature: 27.60\r\n",received
+12:00:38 AM.719,"Temperature: 27.60°C\r\n",received
+12:00:38 AM.719,"Cloud Temperature: 27.60\r\n",received
+12:00:40 AM.770,"Temperature: 27.60°C\r\n",received
+12:00:40 AM.770,"Cloud Temperature: 27.60\r\n",received
+12:00:42 AM.812,"Temperature: 27.60°C\r\n",received
+12:00:42 AM.812,"Cloud Temperature: 27.60\r\n",received
+12:00:44 AM.864,"Temperature: 27.60°C\r\n",received
+12:00:44 AM.864,"Cloud Temperature: 27.60\r\n",received
+12:00:46 AM.900,"Temperature: 27.60°C\r\n",received
+12:00:46 AM.900,"Cloud Temperature: 27.60\r\n",received
+12:00:48 AM.955,"Temperature: 27.60°C\r\n",received
+12:00:48 AM.955,"Cloud Temperature: 27.60\r\n",received
+12:00:50 AM.998,"Temperature: 27.60°C\r\n",received
+12:00:50 AM.998,"Cloud Temperature: 27.60\r\n",received
+12:00:53 AM.45,"Temperature: 27.60°C\r\n",received
+12:00:53 AM.45,"Cloud Temperature: 27.60\r\n",received
+12:00:55 AM.96,"Temperature: 27.60°C\r\n",received
+12:00:55 AM.96,"Cloud Temperature: 27.60\r\n",received
+12:00:57 AM.155,"Temperature: 27.60°C\r\n",received
+12:00:57 AM.155,"Cloud Temperature: 27.60\r\n",received
+12:00:59 AM.197,"Temperature: 27.60°C\r\n",received
+12:00:59 AM.197,"Cloud Temperature: 27.60\r\n",received
+12:01:01 AM.245,"Temperature: 27.60°C\r\n",received
+12:01:01 AM.245,"Cloud Temperature: 27.60\r\n",received
+12:01:03 AM.306,"Temperature: 27.60°C\r\n",received
+12:01:03 AM.306,"Cloud Temperature: 27.60\r\n",received
+12:01:05 AM.359,"Temperature: 27.60°C\r\n",received
+12:01:05 AM.359,"Cloud Temperature: 27.60\r\n",received
+12:01:07 AM.406,"Temperature: 27.60°C\r\n",received
+12:01:07 AM.406,"Cloud Temperature: 27.60\r\n",received
+12:01:09 AM.446,"Temperature: 27.60°C\r\n",received
+12:01:09 AM.446,"Cloud Temperature: 27.60\r\n",received
+12:01:11 AM.501,"Temperature: 27.60°C\r\n",received
+12:01:11 AM.501,"Cloud Temperature: 27.60\r\n",received
+12:01:13 AM.538,"Temperature: 27.60°C\r\n",received
+12:01:13 AM.538,"Cloud Temperature: 27.60\r\n",received
+12:01:15 AM.588,"Temperature: 27.60°C\r\n",received
+12:01:15 AM.588,"Cloud Temperature: 27.60\r\n",received
+12:01:17 AM.635,"Temperature: 27.60°C\r\n",received
+12:01:17 AM.635,"Cloud Temperature: 27.60\r\n",received
+12:01:19 AM.691,"Temperature: 27.60°C\r\n",received
+12:01:19 AM.691,"Cloud Temperature: 27.60\r\n",received
+12:01:21 AM.738,"Temperature: 27.60°C\r\n",received
+12:01:21 AM.738,"Cloud Temperature: 27.60\r\n",received
+12:01:23 AM.786,"Temperature: 27.60°C\r\n",received
+12:01:23 AM.786,"Cloud Temperature: 27.60\r\n",received
+12:01:25 AM.827,"Temperature: 27.60°C\r\n",received
+12:01:25 AM.852,"Cloud Temperature: 27.60\r\n",received
+12:01:27 AM.892,"Temperature: 27.60°C\r\n",received
+12:01:27 AM.892,"Cloud Temperature: 27.60\r\n",received
+12:01:29 AM.952,"Temperature: 27.60°C\r\n",received
+12:01:29 AM.952,"Cloud Temperature: 27.60\r\n",received
+12:01:31 AM.989,"Temperature: 27.60°C\r\n",received
+12:01:31 AM.989,"Cloud Temperature: 27.60\r\n",received
+12:01:34 AM.39,"Temperature: 27.60°C\r\n",received
+12:01:34 AM.39,"Cloud Temperature: 27.60\r\n",received
+12:01:36 AM.97,"Temperature: 27.60°C\r\n",received
+12:01:36 AM.97,"Cloud Temperature: 27.60\r\n",received
+12:01:38 AM.141,"Temperature: 27.60°C\r\n",received
+12:01:38 AM.141,"Cloud Temperature: 27.60\r\n",received
+12:01:40 AM.190,"Temperature: 27.60°C\r\n",received
+12:01:40 AM.190,"Cloud Temperature: 27.60\r\n",received
+12:01:42 AM.231,"Temperature: 27.60°C\r\n",received
+12:01:42 AM.231,"Cloud Temperature: 27.60\r\n",received
+12:01:44 AM.279,"Temperature: 27.60°C\r\n",received
+12:01:44 AM.279,"Cloud Temperature: 27.60\r\n",received
+12:01:46 AM.334,"Temperature: 27.60°C\r\n",received
+12:01:46 AM.334,"Cloud Temperature: 27.60\r\n",received
+12:01:48 AM.388,"Temperature: 27.60°C\r\n",received
+12:01:48 AM.388,"Cloud Temperature: 27.60\r\n",received
+12:01:50 AM.444,"Temperature: 27.60°C\r\n",received
+12:01:50 AM.444,"Cloud Temperature: 27.60\r\n",received
+12:01:52 AM.495,"Temperature: 27.60°C\r\n",received
+12:01:52 AM.495,"Cloud Temperature: 27.60\r\n",received
+12:01:54 AM.545,"Temperature: 27.60°C\r\n",received
+12:01:54 AM.545,"Cloud Temperature: 27.60\r\n",received
+12:01:56 AM.580,"Temperature: 27.60°C\r\n",received
+12:01:56 AM.580,"Cloud Temperature: 27.60\r\n",received
+12:01:58 AM.617,"Temperature: 27.60°C\r\n",received
+12:01:58 AM.637,"Cloud Temperature: 27.60\r\n",received
+12:02:00 AM.681,"Temperature: 27.60°C\r\n",received
+12:02:00 AM.681,"Cloud Temperature: 27.60\r\n",received
+12:02:02 AM.725,"Temperature: 27.60°C\r\n",received
+12:02:02 AM.725,"Cloud Temperature: 27.60\r\n",received
+12:02:04 AM.776,"Temperature: 27.60°C\r\n",received
+12:02:04 AM.776,"Cloud Temperature: 27.60\r\n",received
+12:02:06 AM.819,"Temperature: 27.60°C\r\n",received
+12:02:06 AM.819,"Cloud Temperature: 27.60\r\n",received
+12:02:08 AM.871,"Temperature: 27.60°C\r\n",received
+12:02:08 AM.871,"Cloud Temperature: 27.60\r\n",received
+12:02:10 AM.915,"Temperature: 27.60°C\r\n",received
+12:02:10 AM.940,"Cloud Temperature: 27.60\r\n",received
+12:02:12 AM.986,"Temperature: 27.60°C\r\n",received
+12:02:12 AM.986,"Cloud Temperature: 27.60\r\n",received
+12:02:15 AM.31,"Temperature: 27.60°C\r\n",received
+12:02:15 AM.31,"Cloud Temperature: 27.60\r\n",received
+12:02:17 AM.88,"Temperature: 27.50°C\r\n",received
+12:02:17 AM.88,"Cloud Temperature: 27.50\r\n",received
+12:02:19 AM.135,"Temperature: 27.50°C\r\n",received
+12:02:19 AM.135,"Cloud Temperature: 27.50\r\n",received
+12:02:21 AM.183,"Temperature: 27.50°C\r\n",received
+12:02:21 AM.183,"Cloud Temperature: 27.50\r\n",received
+12:02:23 AM.232,"Temperature: 27.50°C\r\n",received
+12:02:23 AM.232,"Cloud Temperature: 27.50\r\n",received
+12:02:25 AM.271,"Temperature: 27.50°C\r\n",received
+12:02:25 AM.271,"Cloud Temperature: 27.50\r\n",received
+12:02:27 AM.320,"Temperature: 27.50°C\r\n",received
+12:02:27 AM.320,"Cloud Temperature: 27.50\r\n",received
+12:02:29 AM.374,"Temperature: 27.50°C\r\n",received
+12:02:29 AM.374,"Cloud Temperature: 27.50\r\n",received
+12:02:31 AM.421,"Temperature: 27.50°C\r\n",received
+12:02:31 AM.421,"Cloud Temperature: 27.50\r\n",received
+12:02:33 AM.476,"Temperature: 27.50°C\r\n",received
+12:02:33 AM.476,"Cloud Temperature: 27.50\r\n",received
+12:02:35 AM.531,"Temperature: 27.50°C\r\n",received
+12:02:35 AM.531,"Cloud Temperature: 27.50\r\n",received
+12:02:37 AM.585,"Temperature: 27.50°C\r\n",received
+12:02:37 AM.585,"Cloud Temperature: 27.50\r\n",received
+12:02:39 AM.623,"Temperature: 27.50°C\r\n",received
+12:02:39 AM.623,"Cloud Temperature: 27.50\r\n",received
+12:02:41 AM.681,"Temperature: 27.50°C\r\n",received
+12:02:41 AM.681,"Cloud Temperature: 27.50\r\n",received
+12:02:43 AM.730,"Temperature: 27.50°C\r\n",received
+12:02:43 AM.730,"Cloud Temperature: 27.50\r\n",received
+12:02:45 AM.772,"Temperature: 27.40°C\r\n",received
+12:02:45 AM.772,"Cloud Temperature: 27.40\r\n",received
+12:02:47 AM.810,"Temperature: 27.50°C\r\n",received
+12:02:47 AM.810,"Cloud Temperature: 27.50\r\n",received
+12:02:49 AM.886,"Temperature: 27.40°C\r\n",received
+12:02:49 AM.886,"Cloud Temperature: 27.40\r\n",received
+12:02:51 AM.923,"Temperature: 27.40°C\r\n",received
+12:02:51 AM.923,"Cloud Temperature: 27.40\r\n",received
+12:02:53 AM.982,"Temperature: 27.40°C\r\n",received
+12:02:53 AM.982,"Cloud Temperature: 27.40\r\n",received
+12:02:56 AM.21,"Temperature: 27.40°C\r\n",received
+12:02:56 AM.21,"Cloud Temperature: 27.40\r\n",received
+12:02:58 AM.73,"Temperature: 27.40°C\r\n",received
+12:02:58 AM.73,"Cloud Temperature: 27.40\r\n",received
+12:03:00 AM.134,"Temperature: 27.40°C\r\n",received
+12:03:00 AM.134,"Cloud Temperature: 27.40\r\n",received
+12:03:02 AM.163,"Temperature: 27.40°C\r\n",received
+12:03:02 AM.163,"Cloud Temperature: 27.40\r\n",received
+12:03:04 AM.211,"Temperature: 27.40°C\r\n",received
+12:03:04 AM.239,"Cloud Temperature: 27.40\r\n",received
+12:03:06 AM.283,"Temperature: 27.40°C\r\n",received
+12:03:06 AM.283,"Cloud Temperature: 27.40\r\n",received
+12:03:08 AM.330,"Temperature: 27.40°C\r\n",received
+12:03:08 AM.330,"Cloud Temperature: 27.40\r\n",received
+12:03:10 AM.377,"Temperature: 27.40°C\r\n",received
+12:03:10 AM.377,"Cloud Temperature: 27.40\r\n",received
+12:03:12 AM.425,"Temperature: 27.40°C\r\n",received
+12:03:12 AM.425,"Cloud Temperature: 27.40\r\n",received
+12:03:14 AM.470,"Temperature: 27.40°C\r\n",received
+12:03:14 AM.470,"Cloud Temperature: 27.40\r\n",received
+12:03:16 AM.520,"Temperature: 27.40°C\r\n",received
+12:03:16 AM.520,"Cloud Temperature: 27.40\r\n",received
+12:03:18 AM.578,"Temperature: 27.40°C\r\n",received
+12:03:18 AM.578,"Cloud Temperature: 27.40\r\n",received
+12:03:20 AM.620,"Temperature: 27.40°C\r\n",received
+12:03:20 AM.620,"Cloud Temperature: 27.40\r\n",received
+12:03:22 AM.673,"Temperature: 27.40°C\r\n",received
+12:03:22 AM.673,"Cloud Temperature: 27.40\r\n",received
+12:03:24 AM.711,"Temperature: 27.40°C\r\n",received
+12:03:24 AM.711,"Cloud Temperature: 27.40\r\n",received
+12:03:26 AM.768,"Temperature: 27.40°C\r\n",received
+12:03:26 AM.768,"Cloud Temperature: 27.40\r\n",received
+12:03:28 AM.803,"Temperature: 27.30°C\r\n",received
+12:03:28 AM.803,"Cloud Temperature: 27.30\r\n",received
+12:03:30 AM.880,"Temperature: 27.40°C\r\n",received
+12:03:30 AM.880,"Cloud Temperature: 27.40\r\n",received
+12:03:32 AM.929,"Temperature: 27.30°C\r\n",received
+12:03:32 AM.929,"Cloud Temperature: 27.30\r\n",received
+12:03:34 AM.967,"Temperature: 27.30°C\r\n",received
+12:03:34 AM.967,"Cloud Temperature: 27.30\r\n",received
+12:03:37 AM.18,"Temperature: 27.30°C\r\n",received
+12:03:37 AM.18,"Cloud Temperature: 27.30\r\n",received
+12:03:39 AM.64,"Temperature: 27.30°C\r\n",received
+12:03:39 AM.64,"Cloud Temperature: 27.30\r\n",received
+12:03:41 AM.107,"Temperature: 27.30°C\r\n",received
+12:03:41 AM.107,"Cloud Temperature: 27.30\r\n",received
+12:03:43 AM.156,"Temperature: 27.30°C\r\n",received
+12:03:43 AM.173,"Cloud Temperature: 27.30\r\n",received
+12:03:45 AM.233,"Temperature: 27.30°C\r\n",received
+12:03:45 AM.233,"Cloud Temperature: 27.30\r\n",received
+12:03:47 AM.268,"Temperature: 27.30°C\r\n",received
+12:03:47 AM.268,"Cloud Temperature: 27.30\r\n",received
+12:03:49 AM.317,"Temperature: 27.30°C\r\n",received
+12:03:49 AM.317,"Cloud Temperature: 27.30\r\n",received
+12:03:51 AM.363,"Temperature: 27.30°C\r\n",received
+12:03:51 AM.363,"Cloud Temperature: 27.30\r\n",received
+12:03:53 AM.424,"Temperature: 27.30°C\r\n",received
+12:03:53 AM.424,"Cloud Temperature: 27.30\r\n",received
+12:03:55 AM.465,"Temperature: 27.30°C\r\n",received
+12:03:55 AM.465,"Cloud Temperature: 27.30\r\n",received
+12:03:57 AM.516,"Temperature: 27.30°C\r\n",received
+12:03:57 AM.516,"Cloud Temperature: 27.30\r\n",received
+12:03:59 AM.562,"Temperature: 27.20°C\r\n",received
+12:03:59 AM.562,"Cloud Temperature: 27.20\r\n",received
+12:04:01 AM.631,"Temperature: 27.30°C\r\n",received
+12:04:01 AM.631,"Cloud Temperature: 27.30\r\n",received
+12:04:03 AM.670,"Temperature: 27.20°C\r\n",received
+12:04:03 AM.670,"Cloud Temperature: 27.20\r\n",received
+12:04:05 AM.727,"Temperature: 27.20°C\r\n",received
+12:04:05 AM.727,"Cloud Temperature: 27.20\r\n",received
+12:04:07 AM.769,"Temperature: 27.30°C\r\n",received
+12:04:07 AM.769,"Cloud Temperature: 27.30\r\n",received
+12:04:09 AM.831,"Temperature: 27.30°C\r\n",received
+12:04:09 AM.831,"Cloud Temperature: 27.30\r\n",received
+12:04:11 AM.880,"Temperature: 27.30°C\r\n",received
+12:04:11 AM.880,"Cloud Temperature: 27.30\r\n",received
+12:04:13 AM.936,"Temperature: 27.30°C\r\n",received
+12:04:13 AM.936,"Cloud Temperature: 27.30\r\n",received
+12:04:15 AM.983,"Temperature: 27.30°C\r\n",received
+12:04:15 AM.983,"Cloud Temperature: 27.30\r\n",received
+12:04:18 AM.22,"Temperature: 27.30°C\r\n",received
+12:04:18 AM.22,"Cloud Temperature: 27.30\r\n",received
+12:04:20 AM.79,"Temperature: 27.30°C\r\n",received
+12:04:20 AM.79,"Cloud Temperature: 27.30\r\n",received
+12:04:22 AM.121,"Temperature: 27.30°C\r\n",received
+12:04:22 AM.121,"Cloud Temperature: 27.30\r\n",received
+12:04:24 AM.164,"Temperature: 27.30°C\r\n",received
+12:04:24 AM.164,"Cloud Temperature: 27.30\r\n",received
+12:04:26 AM.225,"Temperature: 27.30°C\r\n",received
+12:04:26 AM.225,"Cloud Temperature: 27.30\r\n",received
+12:04:28 AM.273,"Temperature: 27.30°C\r\n",received
+12:04:28 AM.273,"Cloud Temperature: 27.30\r\n",received
+12:04:30 AM.315,"Temperature: 27.20°C\r\n",received
+12:04:30 AM.315,"Cloud Temperature: 27.20\r\n",received
+12:04:32 AM.383,"Temperature: 27.30°C\r\n",received
+12:04:32 AM.383,"Cloud Temperature: 27.30\r\n",received
+12:04:34 AM.432,"Temperature: 27.30°C\r\n",received
+12:04:34 AM.432,"Cloud Temperature: 27.30\r\n",received
+12:04:36 AM.474,"Temperature: 27.30°C\r\n",received
+12:04:36 AM.474,"Cloud Temperature: 27.30\r\n",received
+12:04:38 AM.526,"Temperature: 27.30°C\r\n",received
+12:04:38 AM.526,"Cloud Temperature: 27.30\r\n",received
+12:04:40 AM.574,"Temperature: 27.30°C\r\n",received
+12:04:40 AM.574,"Cloud Temperature: 27.30\r\n",received
+12:04:42 AM.625,"Temperature: 27.30°C\r\n",received
+12:04:42 AM.625,"Cloud Temperature: 27.30\r\n",received
+12:04:44 AM.661,"Temperature: 27.20°C\r\n",received
+12:04:44 AM.661,"Cloud Temperature: 27.20\r\n",received
+12:04:46 AM.733,"Temperature: 27.20°C\r\n",received
+12:04:46 AM.733,"Cloud Temperature: 27.20\r\n",received
+12:04:48 AM.779,"Temperature: 27.20°C\r\n",received
+12:04:48 AM.779,"Cloud Temperature: 27.20\r\n",received
+12:04:50 AM.821,"Temperature: 27.20°C\r\n",received
+12:04:50 AM.821,"Cloud Temperature: 27.20\r\n",received
+12:04:52 AM.873,"Temperature: 27.20°C\r\n",received
+12:04:52 AM.873,"Cloud Temperature: 27.20\r\n",received
+12:04:54 AM.926,"Temperature: 27.20°C\r\n",received
+12:04:54 AM.926,"Cloud Temperature: 27.20\r\n",received
+12:04:56 AM.971,"Temperature: 27.20°C\r\n",received
+12:04:56 AM.971,"Cloud Temperature: 27.20\r\n",received
+12:04:59 AM.22,"Temperature: 27.20°C\r\n",received
+12:04:59 AM.22,"Cloud Temperature: 27.20\r\n",received
+12:05:01 AM.72,"Temperature: 27.20°C\r\n",received
+12:05:01 AM.72,"Cloud Temperature: 27.20\r\n",received
+12:05:03 AM.113,"Temperature: 27.20°C\r\n",received
+12:05:03 AM.113,"Cloud Temperature: 27.20\r\n",received
+12:05:05 AM.180,"Temperature: 27.20°C\r\n",received
+12:05:05 AM.180,"Cloud Temperature: 27.20\r\n",received
+12:05:07 AM.228,"Temperature: 27.20°C\r\n",received
+12:05:07 AM.228,"Cloud Temperature: 27.20\r\n",received
+12:05:09 AM.270,"Temperature: 27.20°C\r\n",received
+12:05:09 AM.270,"Cloud Temperature: 27.20\r\n",received
+12:05:11 AM.327,"Temperature: 27.20°C\r\n",received
+12:05:11 AM.327,"Cloud Temperature: 27.20\r\n",received
+12:05:13 AM.366,"Temperature: 27.20°C\r\n",received
+12:05:13 AM.366,"Cloud Temperature: 27.20\r\n",received
+12:05:15 AM.418,"Temperature: 27.20°C\r\n",received
+12:05:15 AM.418,"Cloud Temperature: 27.20\r\n",received
+12:05:17 AM.471,"Temperature: 27.20°C\r\n",received
+12:05:17 AM.471,"Cloud Temperature: 27.20\r\n",received
+12:05:19 AM.510,"Temperature: 27.20°C\r\n",received
+12:05:19 AM.510,"Cloud Temperature: 27.20\r\n",received
+12:05:21 AM.568,"Temperature: 27.20°C\r\n",received
+12:05:21 AM.568,"Cloud Temperature: 27.20\r\n",received
+12:05:23 AM.607,"Temperature: 27.20°C\r\n",received
+12:05:23 AM.607,"Cloud Temperature: 27.20\r\n",received
+12:05:25 AM.673,"Temperature: 27.20°C\r\n",received
+12:05:25 AM.673,"Cloud Temperature: 27.20\r\n",received
+12:05:27 AM.729,"Temperature: 27.20°C\r\n",received
+12:05:27 AM.729,"Cloud Temperature: 27.20\r\n",received
+12:05:29 AM.770,"Temperature: 27.20°C\r\n",received
+12:05:29 AM.770,"Cloud Temperature: 27.20\r\n",received
+12:05:31 AM.821,"Temperature: 27.30°C\r\n",received
+12:05:31 AM.821,"Cloud Temperature: 27.30\r\n",received
+12:05:33 AM.858,"Temperature: 27.30°C\r\n",received
+12:05:33 AM.858,"Cloud Temperature: 27.30\r\n",received
+12:05:35 AM.920,"Temperature: 27.30°C\r\n",received
+12:05:35 AM.920,"Cloud Temperature: 27.30\r\n",received
+12:05:37 AM.960,"Temperature: 27.30°C\r\n",received
+12:05:37 AM.960,"Cloud Temperature: 27.30\r\n",received
+12:05:40 AM.10,"Temperature: 27.30°C\r\n",received
+12:05:40 AM.10,"Cloud Temperature: 27.30\r\n",received
+12:05:42 AM.80,"Temperature: 27.30°C\r\n",received
+12:05:42 AM.80,"Cloud Temperature: 27.30\r\n",received
+12:05:44 AM.115,"Temperature: 27.30°C\r\n",received
+12:05:44 AM.115,"Cloud Temperature: 27.30\r\n",received
+12:05:46 AM.170,"Temperature: 27.20°C\r\n",received
+12:05:46 AM.170,"Cloud Temperature: 27.20\r\n",received
+12:05:48 AM.221,"Temperature: 27.20°C\r\n",received
+12:05:48 AM.221,"Cloud Temperature: 27.20\r\n",received
+12:05:50 AM.260,"Temperature: 27.20°C\r\n",received
+12:05:50 AM.260,"Cloud Temperature: 27.20\r\n",received
+12:05:52 AM.319,"Temperature: 27.20°C\r\n",received
+12:05:52 AM.319,"Cloud Temperature: 27.20\r\n",received
+12:05:54 AM.355,"Temperature: 27.20°C\r\n",received
+12:05:54 AM.355,"Cloud Temperature: 27.20\r\n",received
+12:05:56 AM.416,"Temperature: 27.20°C\r\n",received
+12:05:56 AM.416,"Cloud Temperature: 27.20\r\n",received
+12:05:58 AM.473,"Temperature: 27.20°C\r\n",received
+12:05:58 AM.473,"Cloud Temperature: 27.20\r\n",received
+12:06:00 AM.523,"Temperature: 27.20°C\r\n",received
+12:06:00 AM.523,"Cloud Temperature: 27.20\r\n",received
+12:06:02 AM.570,"Temperature: 27.20°C\r\n",received
+12:06:02 AM.570,"Cloud Temperature: 27.20\r\n",received
+12:06:04 AM.620,"Temperature: 27.20°C\r\n",received
+12:06:04 AM.620,"Cloud Temperature: 27.20\r\n",received
+12:06:06 AM.666,"Temperature: 27.20°C\r\n",received
+12:06:06 AM.666,"Cloud Temperature: 27.20\r\n",received
+12:06:08 AM.708,"Temperature: 27.20°C\r\n",received
+12:06:08 AM.708,"Cloud Temperature: 27.20\r\n",received
+12:06:10 AM.760,"Temperature: 27.20°C\r\n",received
+12:06:10 AM.760,"Cloud Temperature: 27.20\r\n",received
+12:06:12 AM.807,"Temperature: 27.20°C\r\n",received
+12:06:12 AM.807,"Cloud Temperature: 27.20\r\n",received
+12:06:14 AM.859,"Temperature: 27.20°C\r\n",received
+12:06:14 AM.859,"Cloud Temperature: 27.20\r\n",received
+12:06:16 AM.899,"Temperature: 27.20°C\r\n",received
+12:06:16 AM.926,"Cloud Temperature: 27.20\r\n",received
+12:06:18 AM.965,"Temperature: 27.20°C\r\n",received
+12:06:18 AM.965,"Cloud Temperature: 27.20\r\n",received
+12:06:21 AM.19,"Temperature: 27.20°C\r\n",received
+12:06:21 AM.19,"Cloud Temperature: 27.20\r\n",received
+12:06:23 AM.68,"Temperature: 27.20°C\r\n",received
+12:06:23 AM.68,"Cloud Temperature: 27.20\r\n",received
+12:06:25 AM.116,"Temperature: 27.20°C\r\n",received
+12:06:25 AM.116,"Cloud Temperature: 27.20\r\n",received
+12:06:27 AM.163,"Temperature: 27.20°C\r\n",received
+12:06:27 AM.163,"Cloud Temperature: 27.20\r\n",received
+12:06:29 AM.217,"Temperature: 27.20°C\r\n",received
+12:06:29 AM.217,"Cloud Temperature: 27.20\r\n",received
+12:06:31 AM.253,"Temperature: 27.30°C\r\n",received
+12:06:31 AM.253,"Cloud Temperature: 27.30\r\n",received
+12:06:33 AM.310,"Temperature: 27.30°C\r\n",received
+12:06:33 AM.310,"Cloud Temperature: 27.30\r\n",received
+12:06:35 AM.347,"Temperature: 27.20°C\r\n",received
+12:06:35 AM.347,"Cloud Temperature: 27.20\r\n",received
+12:06:37 AM.418,"Temperature: 27.20°C\r\n",received
+12:06:37 AM.418,"Cloud Temperature: 27.20\r\n",received
+12:06:39 AM.468,"Temperature: 27.20°C\r\n",received
+12:06:39 AM.468,"Cloud Temperature: 27.20\r\n",received
+12:06:41 AM.508,"Temperature: 27.20°C\r\n",received
+12:06:41 AM.508,"Cloud Temperature: 27.20\r\n",received
+12:06:43 AM.570,"Temperature: 27.20°C\r\n",received
+12:06:43 AM.570,"Cloud Temperature: 27.20\r\n",received
+12:06:45 AM.606,"Temperature: 27.20°C\r\n",received
+12:06:45 AM.606,"Cloud Temperature: 27.20\r\n",received
+12:06:47 AM.659,"Temperature: 27.20°C\r\n",received
+12:06:47 AM.659,"Cloud Temperature: 27.20\r\n",received
+12:06:49 AM.712,"Temperature: 27.20°C\r\n",received
+12:06:49 AM.712,"Cloud Temperature: 27.20\r\n",received
+12:06:51 AM.760,"Temperature: 27.20°C\r\n",received
+12:06:51 AM.760,"Cloud Temperature: 27.20\r\n",received
+12:06:53 AM.814,"Temperature: 27.20°C\r\n",received
+12:06:53 AM.814,"Cloud Temperature: 27.20\r\n",received
+12:06:55 AM.869,"Temperature: 27.20°C\r\n",received
+12:06:55 AM.869,"Cloud Temperature: 27.20\r\n",received
+12:06:57 AM.917,"Temperature: 27.20°C\r\n",received
+12:06:57 AM.917,"Cloud Temperature: 27.20\r\n",received
+12:06:59 AM.958,"Temperature: 27.20°C\r\n",received
+12:06:59 AM.958,"Cloud Temperature: 27.20\r\n",received
+12:07:02 AM.8,"Temperature: 27.20°C\r\n",received
+12:07:02 AM.8,"Cloud Temperature: 27.20\r\n",received
+12:07:04 AM.42,"Temperature: 27.10°C\r\n",received
+12:07:04 AM.57,"Cloud Temperature: 27.10\r\n",received
+12:07:06 AM.103,"Temperature: 27.20°C\r\n",received
+12:07:06 AM.103,"Cloud Temperature: 27.20\r\n",received
+12:07:08 AM.147,"Temperature: 27.20°C\r\n",received
+12:07:08 AM.147,"Cloud Temperature: 27.20\r\n",received
+12:07:10 AM.221,"Temperature: 27.20°C\r\n",received
+12:07:10 AM.221,"Cloud Temperature: 27.20\r\n",received
+12:07:12 AM.259,"Temperature: 27.20°C\r\n",received
+12:07:12 AM.259,"Cloud Temperature: 27.20\r\n",received
+12:07:14 AM.314,"Temperature: 27.20°C\r\n",received
+12:07:14 AM.314,"Cloud Temperature: 27.20\r\n",received
+12:07:16 AM.365,"Temperature: 27.20°C\r\n",received
+12:07:16 AM.365,"Cloud Temperature: 27.20\r\n",received
+12:07:18 AM.411,"Temperature: 27.20°C\r\n",received
+12:07:18 AM.411,"Cloud Temperature: 27.20\r\n",received
+12:07:20 AM.459,"Temperature: 27.20°C\r\n",received
+12:07:20 AM.459,"Cloud Temperature: 27.20\r\n",received
+12:07:22 AM.512,"Temperature: 27.20°C\r\n",received
+12:07:22 AM.512,"Cloud Temperature: 27.20\r\n",received
+12:07:24 AM.552,"Temperature: 27.20°C\r\n",received
+12:07:24 AM.552,"Cloud Temperature: 27.20\r\n",received
+12:07:26 AM.618,"Temperature: 27.20°C\r\n",received
+12:07:26 AM.618,"Cloud Temperature: 27.20\r\n",received
+12:07:28 AM.658,"Temperature: 27.20°C\r\n",received
+12:07:28 AM.658,"Cloud Temperature: 27.20\r\n",received
+12:07:30 AM.718,"Temperature: 27.20°C\r\n",received
+12:07:30 AM.718,"Cloud Temperature: 27.20\r\n",received
+12:07:32 AM.765,"Temperature: 27.20°C\r\n",received
+12:07:32 AM.765,"Cloud Temperature: 27.20\r\n",received
+12:07:34 AM.817,"Temperature: 27.20°C\r\n",received
+12:07:34 AM.817,"Cloud Temperature: 27.20\r\n",received
+12:07:36 AM.856,"Temperature: 27.20°C\r\n",received
+12:07:36 AM.856,"Cloud Temperature: 27.20\r\n",received
+12:07:38 AM.902,"Temperature: 27.20°C\r\n",received
+12:07:38 AM.902,"Cloud Temperature: 27.20\r\n",received
+12:07:40 AM.960,"Temperature: 27.20°C\r\n",received
+12:07:40 AM.960,"Cloud Temperature: 27.20\r\n",received
+12:07:43 AM.10,"Temperature: 27.20°C\r\n",received
+12:07:43 AM.10,"Cloud Temperature: 27.20\r\n",received
+12:07:45 AM.60,"Temperature: 27.20°C\r\n",received
+12:07:45 AM.60,"Cloud Temperature: 27.20\r\n",received
+12:07:47 AM.117,"Temperature: 27.20°C\r\n",received
+12:07:47 AM.117,"Cloud Temperature: 27.20\r\n",received
+12:07:49 AM.166,"Temperature: 27.20°C\r\n",received
+12:07:49 AM.166,"Cloud Temperature: 27.20\r\n",received
+12:07:51 AM.207,"Temperature: 27.20°C\r\n",received
+12:07:51 AM.207,"Cloud Temperature: 27.20\r\n",received
+12:07:53 AM.256,"Temperature: 27.20°C\r\n",received
+12:07:53 AM.256,"Cloud Temperature: 27.20\r\n",received
+12:07:55 AM.312,"Temperature: 27.20°C\r\n",received
+12:07:55 AM.312,"Cloud Temperature: 27.20\r\n",received
+12:07:57 AM.354,"Temperature: 27.20°C\r\n",received
+12:07:57 AM.354,"Cloud Temperature: 27.20\r\n",received
+12:07:59 AM.407,"Temperature: 27.20°C\r\n",received
+12:07:59 AM.407,"Cloud Temperature: 27.20\r\n",received
+12:08:01 AM.450,"Temperature: 27.20°C\r\n",received
+12:08:01 AM.450,"Cloud Temperature: 27.20\r\n",received
+12:08:03 AM.517,"Temperature: 27.20��C\r\n",received
+12:08:03 AM.517,"Cloud Temperature: 27.20\r\n",received
+12:08:05 AM.560,"Temperature: 27.20°C\r\n",received
+12:08:05 AM.560,"Cloud Temperature: 27.20\r\n",received
+12:08:07 AM.608,"Temperature: 27.20°C\r\n",received
+12:08:07 AM.608,"Cloud Temperature: 27.20\r\n",received
+12:08:09 AM.655,"Temperature: 27.20°C\r\n",received
+12:08:09 AM.655,"Cloud Temperature: 27.20\r\n",received
+12:08:11 AM.707,"Temperature: 27.20°C\r\n",received
+12:08:11 AM.707,"Cloud Temperature: 27.20\r\n",received
+12:08:13 AM.747,"Temperature: 27.20°C\r\n",received
+12:08:13 AM.747,"Cloud Temperature: 27.20\r\n",received
+12:08:15 AM.807,"Temperature: 27.20°C\r\n",received
+12:08:15 AM.807,"Cloud Temperature: 27.20\r\n",received
+12:08:17 AM.856,"Temperature: 27.20°C\r\n",received
+12:08:17 AM.856,"Cloud Temperature: 27.20\r\n",received
+12:08:19 AM.919,"Temperature: 27.20°C\r\n",received
+12:08:19 AM.919,"Cloud Temperature: 27.20\r\n",received
+12:08:21 AM.967,"Temperature: 27.20°C\r\n",received
+12:08:21 AM.967,"Cloud Temperature: 27.20\r\n",received
+12:08:24 AM.10,"Temperature: 27.20°C\r\n",received
+12:08:24 AM.10,"Cloud Temperature: 27.20\r\n",received
+12:08:26 AM.42,"Temperature: 27.20°C\r\n",received
+12:08:26 AM.42,"Cloud Temperature: 27.20\r\n",received
+12:08:28 AM.106,"Temperature: 27.20°C\r\n",received
+12:08:28 AM.106,"Cloud Temperature: 27.20\r\n",received
+12:08:30 AM.152,"Temperature: 27.20°C\r\n",received
+12:08:30 AM.152,"Cloud Temperature: 27.20\r\n",received
+12:08:32 AM.206,"Temperature: 27.20°C\r\n",received
+12:08:32 AM.206,"Cloud Temperature: 27.20\r\n",received
+12:08:34 AM.252,"Temperature: 27.20°C\r\n",received
+12:08:34 AM.252,"Cloud Temperature: 27.20\r\n",received
+12:08:36 AM.308,"Temperature: 27.20°C\r\n",received
+12:08:36 AM.308,"Cloud Temperature: 27.20\r\n",received
+12:08:38 AM.362,"Temperature: 27.20°C\r\n",received
+12:08:38 AM.362,"Cloud Temperature: 27.20\r\n",received
+12:08:40 AM.404,"Temperature: 27.20°C\r\n",received
+12:08:40 AM.404,"Cloud Temperature: 27.20\r\n",received
+12:08:42 AM.451,"Temperature: 27.20°C\r\n",received
+12:08:42 AM.451,"Cloud Temperature: 27.20\r\n",received
+12:08:44 AM.509,"Temperature: 27.20°C\r\n",received
+12:08:44 AM.509,"Cloud Temperature: 27.20\r\n",received
+12:08:46 AM.551,"Temperature: 27.20°C\r\n",received
+12:08:46 AM.551,"Cloud Temperature: 27.20\r\n",received
+12:08:48 AM.603,"Temperature: 27.20°C\r\n",received
+12:08:48 AM.603,"Cloud Temperature: 27.20\r\n",received
+12:08:50 AM.650,"Temperature: 27.20°C\r\n",received
+12:08:50 AM.650,"Cloud Temperature: 27.20\r\n",received
+12:08:52 AM.691,"Temperature: 27.20°C\r\n",received
+12:08:52 AM.713,"Cloud Temperature: 27.20\r\n",received
+12:08:54 AM.759,"Temperature: 27.20°C\r\n",received
+12:08:54 AM.759,"Cloud Temperature: 27.20\r\n",received
+12:08:56 AM.814,"Temperature: 27.20°C\r\n",received
+12:08:56 AM.814,"Cloud Temperature: 27.20\r\n",received
+12:08:58 AM.857,"Temperature: 27.20°C\r\n",received
+12:08:58 AM.857,"Cloud Temperature: 27.20\r\n",received
+12:09:00 AM.902,"Temperature: 27.20°C\r\n",received
+12:09:00 AM.902,"Cloud Temperature: 27.20\r\n",received
+12:09:02 AM.962,"Temperature: 27.20°C\r\n",received
+12:09:02 AM.962,"Cloud Temperature: 27.20\r\n",received
+12:09:05 AM.7,"Temperature: 27.20°C\r\n",received
+12:09:05 AM.7,"Cloud Temperature: 27.20\r\n",received
+12:09:07 AM.46,"Temperature: 27.20°C\r\n",received
+12:09:07 AM.46,"Cloud Temperature: 27.20\r\n",received
+12:09:09 AM.94,"Temperature: 27.20°C\r\n",received
+12:09:09 AM.94,"Cloud Temperature: 27.20\r\n",received
+12:09:11 AM.144,"Temperature: 27.20°C\r\n",received
+12:09:11 AM.144,"Cloud Temperature: 27.20\r\n",received
+12:09:13 AM.195,"Temperature: 27.20°C\r\n",received
+12:09:13 AM.195,"Cloud Temperature: 27.20\r\n",received
+12:09:15 AM.236,"Temperature: 27.30°C\r\n",received
+12:09:15 AM.236,"Cloud Temperature: 27.30\r\n",received
+12:09:17 AM.301,"Temperature: 27.30°C\r\n",received
+12:09:17 AM.301,"Cloud Temperature: 27.30\r\n",received
+12:09:19 AM.339,"Temperature: 27.30°C\r\n",received
+12:09:19 AM.339,"Cloud Temperature: 27.30\r\n",received
+12:09:21 AM.386,"Temperature: 27.30°C\r\n",received
+12:09:21 AM.386,"Cloud Temperature: 27.30\r\n",received
+12:09:23 AM.456,"Temperature: 27.30°C\r\n",received
+12:09:23 AM.456,"Cloud Temperature: 27.30\r\n",received
+12:09:25 AM.495,"Temperature: 27.30°C\r\n",received
+12:09:25 AM.495,"Cloud Temperature: 27.30\r\n",received
+12:09:27 AM.547,"Temperature: 27.30°C\r\n",received
+12:09:27 AM.547,"Cloud Temperature: 27.30\r\n",received
+12:09:29 AM.600,"Temperature: 27.30°C\r\n",received
+12:09:29 AM.600,"Cloud Temperature: 27.30\r\n",received
+12:09:31 AM.640,"Temperature: 27.30°C\r\n",received
+12:09:31 AM.640,"Cloud Temperature: 27.30\r\n",received
+12:09:33 AM.697,"Temperature: 27.30°C\r\n",received
+12:09:33 AM.697,"Cloud Temperature: 27.30\r\n",received
+12:09:35 AM.732,"Temperature: 27.30°C\r\n",received
+12:09:35 AM.732,"Cloud Temperature: 27.30\r\n",received
+12:09:37 AM.783,"Temperature: 27.30°C\r\n",received
+12:09:37 AM.783,"Cloud Temperature: 27.30\r\n",received
+12:09:39 AM.834,"Temperature: 27.30°C\r\n",received
+12:09:39 AM.834,"Cloud Temperature: 27.30\r\n",received
+12:09:41 AM.895,"Temperature: 27.30°C\r\n",received
+12:09:41 AM.895,"Cloud Temperature: 27.30\r\n",received
+12:09:43 AM.941,"Temperature: 27.30°C\r\n",received
+12:09:43 AM.941,"Cloud Temperature: 27.30\r\n",received
+12:09:46 AM.2,"Temperature: 27.30°C\r\n",received
+12:09:46 AM.2,"Cloud Temperature: 27.30\r\n",received
+12:09:48 AM.38,"Temperature: 27.20°C\r\n",received
+12:09:48 AM.38,"Cloud Temperature: 27.20\r\n",received
+12:09:50 AM.86,"Temperature: 27.20°C\r\n",received
+12:09:50 AM.86,"Cloud Temperature: 27.20\r\n",received
+12:09:52 AM.142,"Temperature: 27.20°C\r\n",received
+12:09:52 AM.142,"Cloud Temperature: 27.20\r\n",received
+12:09:54 AM.179,"Temperature: 27.20°C\r\n",received
+12:09:54 AM.179,"Cloud Temperature: 27.20\r\n",received
+12:09:56 AM.252,"Temperature: 27.20°C\r\n",received
+12:09:56 AM.252,"Cloud Temperature: 27.20\r\n",received
+12:09:58 AM.299,"Temperature: 27.20°C\r\n",received
+12:09:58 AM.299,"Cloud Temperature: 27.20\r\n",received
+12:10:00 AM.346,"Temperature: 27.20°C\r\n",received
+12:10:00 AM.346,"Cloud Temperature: 27.20\r\n",received
+12:10:02 AM.397,"Temperature: 27.20°C\r\n",received
+12:10:02 AM.397,"Cloud Temperature: 27.20\r\n",received
+12:10:04 AM.446,"Temperature: 27.20°C\r\n",received
+12:10:04 AM.446,"Cloud Temperature: 27.20\r\n",received
+12:10:06 AM.489,"Temperature: 27.20°C\r\n",received
+12:10:06 AM.489,"Cloud Temperature: 27.20\r\n",received
+12:10:08 AM.545,"Temperature: 27.20°C\r\n",received
+12:10:08 AM.545,"Cloud Temperature: 27.20\r\n",received
+12:10:10 AM.579,"Temperature: 27.20°C\r\n",received
+12:10:10 AM.602,"Cloud Temperature: 27.20\r\n",received
+12:10:12 AM.649,"Temperature: 27.20°C\r\n",received
+12:10:12 AM.649,"Cloud Temperature: 27.20\r\n",received
+12:10:14 AM.693,"Temperature: 27.20°C\r\n",received
+12:10:14 AM.693,"Cloud Temperature: 27.20\r\n",received
+12:10:16 AM.741,"Temperature: 27.20°C\r\n",received
+12:10:16 AM.741,"Cloud Temperature: 27.20\r\n",received
+12:10:18 AM.800,"Temperature: 27.20°C\r\n",received
+12:10:18 AM.800,"Cloud Temperature: 27.20\r\n",received
+12:10:20 AM.841,"Temperature: 27.20°C\r\n",received
+12:10:20 AM.841,"Cloud Temperature: 27.20\r\n",received
+12:10:22 AM.887,"Temperature: 27.20°C\r\n",received
+12:10:22 AM.887,"Cloud Temperature: 27.20\r\n",received
+12:10:24 AM.935,"Temperature: 27.10°C\r\n",received
+12:10:24 AM.935,"Cloud Temperature: 27.10\r\n",received
+12:10:26 AM.980,"Temperature: 27.20°C\r\n",received
+12:10:26 AM.980,"Cloud Temperature: 27.20\r\n",received
+12:10:29 AM.30,"Temperature: 27.10°C\r\n",received
+12:10:29 AM.49,"Cloud Temperature: 27.10\r\n",received
+12:10:31 AM.91,"Temperature: 27.10°C\r\n",received
+12:10:31 AM.91,"Cloud Temperature: 27.10\r\n",received
+12:10:33 AM.138,"Temperature: 27.10°C\r\n",received
+12:10:33 AM.138,"Cloud Temperature: 27.10\r\n",received
+12:10:35 AM.187,"Temperature: 27.20°C\r\n",received
+12:10:35 AM.187,"Cloud Temperature: 27.20\r\n",received
+12:10:37 AM.248,"Temperature: 27.10°C\r\n",received
+12:10:37 AM.248,"Cloud Temperature: 27.10\r\n",received
+12:10:39 AM.310,"Temperature: 27.20°C\r\n",received
+12:10:39 AM.310,"Cloud Temperature: 27.20\r\n",received
+12:10:41 AM.357,"Temperature: 27.20°C\r\n",received
+12:10:41 AM.357,"Cloud Temperature: 27.20\r\n",received
+12:10:43 AM.404,"Temperature: 27.10°C\r\n",received
+12:10:43 AM.404,"Cloud Temperature: 27.10\r\n",received
+12:10:45 AM.449,"Temperature: 27.20°C\r\n",received
+12:10:45 AM.449,"Cloud Temperature: 27.20\r\n",received
+12:10:47 AM.507,"Temperature: 27.20°C\r\n",received
+12:10:47 AM.507,"Cloud Temperature: 27.20\r\n",received
+12:10:49 AM.568,"Temperature: 27.20°C\r\n",received
+12:10:49 AM.568,"Cloud Temperature: 27.20\r\n",received
+12:10:51 AM.613,"Temperature: 27.20°C\r\n",received
+12:10:51 AM.613,"Cloud Temperature: 27.20\r\n",received
+12:10:53 AM.664,"Temperature: 27.20°C\r\n",received
+12:10:53 AM.664,"Cloud Temperature: 27.20\r\n",received
+12:10:55 AM.712,"Temperature: 27.20°C\r\n",received
+12:10:55 AM.712,"Cloud Temperature: 27.20\r\n",received
+12:10:57 AM.747,"Temperature: 27.20°C\r\n",received
+12:10:57 AM.747,"Cloud Temperature: 27.20\r\n",received
+12:10:59 AM.820,"Temperature: 27.20°C\r\n",received
+12:10:59 AM.820,"Cloud Temperature: 27.20\r\n",received
+12:11:01 AM.866,"Temperature: 27.20°C\r\n",received
+12:11:01 AM.866,"Cloud Temperature: 27.20\r\n",received
+12:11:03 AM.912,"Temperature: 27.20°C\r\n",received
+12:11:03 AM.912,"Cloud Temperature: 27.20\r\n",received
+12:11:05 AM.959,"Temperature: 27.20°C\r\n",received
+12:11:05 AM.959,"Cloud Temperature: 27.20\r\n",received
+12:11:08 AM.9,"Temperature: 27.20°C\r\n",received
+12:11:08 AM.9,"Cloud Temperature: 27.20\r\n",received
+12:11:10 AM.54,"Temperature: 27.20°C\r\n",received
+12:11:10 AM.54,"Cloud Temperature: 27.20\r\n",received
+12:11:12 AM.98,"Temperature: 27.20°C\r\n",received
+12:11:12 AM.98,"Cloud Temperature: 27.20\r\n",received
+12:11:14 AM.153,"Temperature: 27.20°C\r\n",received
+12:11:14 AM.153,"Cloud Temperature: 27.20\r\n",received
+12:11:16 AM.211,"Temperature: 27.20°C\r\n",received
+12:11:16 AM.211,"Cloud Temperature: 27.20\r\n",received
+12:11:18 AM.258,"Temperature: 27.20°C\r\n",received
+12:11:18 AM.258,"Cloud Temperature: 27.20\r\n",received
+12:11:20 AM.297,"Temperature: 27.20°C\r\n",received
+12:11:20 AM.315,"Cloud Temperature: 27.20\r\n",received
+12:11:22 AM.367,"Temperature: 27.20°C\r\n",received
+12:11:22 AM.367,"Cloud Temperature: 27.20\r\n",received
+12:11:24 AM.407,"Temperature: 27.20°C\r\n",received
+12:11:24 AM.407,"Cloud Temperature: 27.20\r\n",received
+12:11:26 AM.463,"Temperature: 27.20°C\r\n",received
+12:11:26 AM.463,"Cloud Temperature: 27.20\r\n",received
+12:11:28 AM.501,"Temperature: 27.20°C\r\n",received
+12:11:28 AM.501,"Cloud Temperature: 27.20\r\n",received
+12:11:30 AM.550,"Temperature: 27.20°C\r\n",received
+12:11:30 AM.550,"Cloud Temperature: 27.20\r\n",received
+12:11:32 AM.609,"Temperature: 27.20°C\r\n",received
+12:11:32 AM.609,"Cloud Temperature: 27.20\r\n",received
+12:11:34 AM.642,"Temperature: 27.20°C\r\n",received
+12:11:34 AM.661,"Cloud Temperature: 27.20\r\n",received
+12:11:36 AM.722,"Temperature: 27.20°C\r\n",received
+12:11:36 AM.722,"Cloud Temperature: 27.20\r\n",received
+12:11:38 AM.758,"Temperature: 27.20°C\r\n",received
+12:11:38 AM.758,"Cloud Temperature: 27.20\r\n",received
+12:11:40 AM.806,"Temperature: 27.20°C\r\n",received
+12:11:40 AM.806,"Cloud Temperature: 27.20\r\n",received
+12:11:42 AM.855,"Temperature: 27.20°C\r\n",received
+12:11:42 AM.855,"Cloud Temperature: 27.20\r\n",received
+12:11:44 AM.899,"Temperature: 27.20°C\r\n",received
+12:11:44 AM.899,"Cloud Temperature: 27.20\r\n",received
+12:11:46 AM.957,"Temperature: 27.20°C\r\n",received
+12:11:46 AM.957,"Cloud Temperature: 27.20\r\n",received
+12:11:48 AM.999,"Temperature: 27.20°C\r\n",received
+12:11:48 AM.999,"Cloud Temperature: 27.20\r\n",received
+12:11:51 AM.42,"Temperature: 27.20°C\r\n",received
+12:11:51 AM.68,"Cloud Temperature: 27.20\r\n",received
+12:11:53 AM.91,"Temperature: 27.20°C\r\n",received
+12:11:53 AM.120,"Cloud Temperature: 27.20\r\n",received
+12:11:55 AM.165,"Temperature: 27.10°C\r\n",received
+12:11:55 AM.165,"Cloud Temperature: 27.10\r\n",received
+12:11:57 AM.214,"Temperature: 27.20°C\r\n",received
+12:11:57 AM.214,"Cloud Temperature: 27.20\r\n",received
+12:11:59 AM.258,"Temperature: 27.10°C\r\n",received
+12:11:59 AM.258,"Cloud Temperature: 27.10\r\n",received
+12:12:01 AM.330,"Temperature: 27.10°C\r\n",received
+12:12:01 AM.330,"Cloud Temperature: 27.10\r\n",received
+12:12:03 AM.370,"Temperature: 27.20°C\r\n",received
+12:12:03 AM.370,"Cloud Temperature: 27.20\r\n",received
+12:12:05 AM.413,"Temperature: 27.10°C\r\n",received
+12:12:05 AM.413,"Cloud Temperature: 27.10\r\n",received
+12:12:07 AM.462,"Temperature: 27.10°C\r\n",received
+12:12:07 AM.462,"Cloud Temperature: 27.10\r\n",received
+12:12:09 AM.529,"Temperature: 27.20°C\r\n",received
+12:12:09 AM.529,"Cloud Temperature: 27.20\r\n",received
+12:12:11 AM.574,"Temperature: 27.20°C\r\n",received
+12:12:11 AM.574,"Cloud Temperature: 27.20\r\n",received
+12:12:13 AM.610,"Temperature: 27.10°C\r\n",received
+12:12:13 AM.625,"Cloud Temperature: 27.10\r\n",received
+12:12:15 AM.670,"Temperature: 27.10°C\r\n",received
+12:12:15 AM.670,"Cloud Temperature: 27.10\r\n",received
+12:12:17 AM.725,"Temperature: 27.10°C\r\n",received
+12:12:17 AM.725,"Cloud Temperature: 27.10\r\n",received
+12:12:19 AM.769,"Temperature: 27.10°C\r\n",received
+12:12:19 AM.769,"Cloud Temperature: 27.10\r\n",received
+12:12:21 AM.830,"Temperature: 27.10°C\r\n",received
+12:12:21 AM.830,"Cloud Temperature: 27.10\r\n",received
+12:12:23 AM.888,"Temperature: 27.10°C\r\n",received
+12:12:23 AM.888,"Cloud Temperature: 27.10\r\n",received
+12:12:25 AM.924,"Temperature: 27.10°C\r\n",received
+12:12:25 AM.924,"Cloud Temperature: 27.10\r\n",received
+12:12:27 AM.982,"Temperature: 27.10°C\r\n",received
+12:12:27 AM.982,"Cloud Temperature: 27.10\r\n",received
+12:12:30 AM.29,"Temperature: 27.10°C\r\n",received
+12:12:30 AM.29,"Cloud Temperature: 27.10\r\n",received
+12:12:32 AM.68,"Temperature: 27.10°C\r\n",received
+12:12:32 AM.68,"Cloud Temperature: 27.10\r\n",received
+12:12:34 AM.116,"Temperature: 27.10°C\r\n",received
+12:12:34 AM.116,"Cloud Temperature: 27.10\r\n",received
+12:12:36 AM.162,"Temperature: 27.10°C\r\n",received
+12:12:36 AM.191,"Cloud Temperature: 27.10\r\n",received
+12:12:38 AM.232,"Temperature: 27.10°C\r\n",received
+12:12:38 AM.232,"Cloud Temperature: 27.10\r\n",received
+12:12:40 AM.282,"Temperature: 27.10°C\r\n",received
+12:12:40 AM.282,"Cloud Temperature: 27.10\r\n",received
+12:12:42 AM.330,"Temperature: 27.10°C\r\n",received
+12:12:42 AM.330,"Cloud Temperature: 27.10\r\n",received
+12:12:44 AM.371,"Temperature: 27.10°C\r\n",received
+12:12:44 AM.371,"Cloud Temperature: 27.10\r\n",received
+12:12:46 AM.434,"Temperature: 27.10°C\r\n",received
+12:12:46 AM.434,"Cloud Temperature: 27.10\r\n",received
+12:12:48 AM.481,"Temperature: 27.10°C\r\n",received
+12:12:48 AM.481,"Cloud Temperature: 27.10\r\n",received
+12:12:50 AM.517,"Temperature: 27.10°C\r\n",received
+12:12:50 AM.517,"Cloud Temperature: 27.10\r\n",received
+12:12:52 AM.577,"Temperature: 27.10°C\r\n",received
+12:12:52 AM.577,"Cloud Temperature: 27.10\r\n",received
+12:12:54 AM.639,"Temperature: 27.10°C\r\n",received
+12:12:54 AM.639,"Cloud Temperature: 27.10\r\n",received
+12:12:56 AM.688,"Temperature: 27.10°C\r\n",received
+12:12:56 AM.688,"Cloud Temperature: 27.10\r\n",received
+12:12:58 AM.736,"Temperature: 27.10°C\r\n",received
+12:12:58 AM.736,"Cloud Temperature: 27.10\r\n",received
+12:13:00 AM.785,"Temperature: 27.10°C\r\n",received
+12:13:00 AM.785,"Cloud Temperature: 27.10\r\n",received
+12:13:02 AM.830,"Temperature: 27.10°C\r\n",received
+12:13:02 AM.830,"Cloud Temperature: 27.10\r\n",received
+12:13:04 AM.875,"Temperature: 27.10°C\r\n",received
+12:13:04 AM.875,"Cloud Temperature: 27.10\r\n",received
+12:13:06 AM.920,"Temperature: 27.10°C\r\n",received
+12:13:06 AM.920,"Cloud Temperature: 27.10\r\n",received
+12:13:08 AM.962,"Temperature: 27.10°C\r\n",received
+12:13:08 AM.962,"Cloud Temperature: 27.10\r\n",received
+12:13:11 AM.12,"Temperature: 27.10°C\r\n",received
+12:13:11 AM.12,"Cloud Temperature: 27.10\r\n",received
+12:13:13 AM.91,"Temperature: 27.10°C\r\n",received
+12:13:13 AM.91,"Cloud Temperature: 27.10\r\n",received
+12:13:15 AM.136,"Temperature: 27.10°C\r\n",received
+12:13:15 AM.136,"Cloud Temperature: 27.10\r\n",received
+12:13:17 AM.177,"Temperature: 27.10°C\r\n",received
+12:13:17 AM.177,"Cloud Temperature: 27.10\r\n",received
+12:13:19 AM.222,"Temperature: 27.10°C\r\n",received
+12:13:19 AM.222,"Cloud Temperature: 27.10\r\n",received
+12:13:21 AM.268,"Temperature: 27.10°C\r\n",received
+12:13:21 AM.268,"Cloud Temperature: 27.10\r\n",received
+12:13:23 AM.330,"Temperature: 27.10°C\r\n",received
+12:13:23 AM.330,"Cloud Temperature: 27.10\r\n",received
+12:13:25 AM.374,"Temperature: 27.10°C\r\n",received
+12:13:25 AM.374,"Cloud Temperature: 27.10\r\n",received
+12:13:27 AM.411,"Temperature: 27.10°C\r\n",received
+12:13:27 AM.442,"Cloud Temperature: 27.10\r\n",received
+12:13:29 AM.484,"Temperature: 27.10°C\r\n",received
+12:13:29 AM.484,"Cloud Temperature: 27.10\r\n",received
+12:13:31 AM.534,"Temperature: 27.10°C\r\n",received
+12:13:31 AM.534,"Cloud Temperature: 27.10\r\n",received
+12:13:33 AM.581,"Temperature: 27.10°C\r\n",received
+12:13:33 AM.581,"Cloud Temperature: 27.10\r\n",received
+12:13:35 AM.630,"Temperature: 27.10°C\r\n",received
+12:13:35 AM.630,"Cloud Temperature: 27.10\r\n",received
+12:13:37 AM.677,"Temperature: 27.10°C\r\n",received
+12:13:37 AM.677,"Cloud Temperature: 27.10\r\n",received
+12:13:39 AM.716,"Temperature: 27.10°C\r\n",received
+12:13:39 AM.716,"Cloud Temperature: 27.10\r\n",received
+12:13:41 AM.770,"Temperature: 27.10°C\r\n",received
+12:13:41 AM.770,"Cloud Temperature: 27.10\r\n",received
+12:13:43 AM.815,"Temperature: 27.10°C\r\n",received
+12:13:43 AM.815,"Cloud Temperature: 27.10\r\n",received
+12:13:45 AM.859,"Temperature: 27.10°C\r\n",received
+12:13:45 AM.859,"Cloud Temperature: 27.10\r\n",received
+12:13:47 AM.936,"Temperature: 27.10°C\r\n",received
+12:13:47 AM.936,"Cloud Temperature: 27.10\r\n",received
+12:13:49 AM.986,"Temperature: 27.10°C\r\n",received
+12:13:49 AM.986,"Cloud Temperature: 27.10\r\n",received
+12:13:52 AM.32,"Temperature: 27.10°C\r\n",received
+12:13:52 AM.32,"Cloud Temperature: 27.10\r\n",received
+12:13:54 AM.75,"Temperature: 27.10°C\r\n",received
+12:13:54 AM.75,"Cloud Temperature: 27.10\r\n",received
+12:13:56 AM.122,"Temperature: 27.10°C\r\n",received
+12:13:56 AM.122,"Cloud Temperature: 27.10\r\n",received
+12:13:58 AM.173,"Temperature: 27.10°C\r\n",received
+12:13:58 AM.173,"Cloud Temperature: 27.10\r\n",received
+12:14:00 AM.223,"Temperature: 27.10°C\r\n",received
+12:14:00 AM.223,"Cloud Temperature: 27.10\r\n",received
+12:14:02 AM.259,"Temperature: 27.10°C\r\n",received
+12:14:02 AM.259,"Cloud Temperature: 27.10\r\n",received
+12:14:04 AM.336,"Temperature: 27.10°C\r\n",received
+12:14:04 AM.336,"Cloud Temperature: 27.10\r\n",received
+12:14:06 AM.385,"Temperature: 27.10°C\r\n",received
+12:14:06 AM.385,"Cloud Temperature: 27.10\r\n",received
+12:14:08 AM.429,"Temperature: 27.10°C\r\n",received
+12:14:08 AM.429,"Cloud Temperature: 27.10\r\n",received
+12:14:10 AM.475,"Temperature: 27.10°C\r\n",received
+12:14:10 AM.475,"Cloud Temperature: 27.10\r\n",received
+12:14:12 AM.525,"Temperature: 27.10°C\r\n",received
+12:14:12 AM.525,"Cloud Temperature: 27.10\r\n",received
+12:14:14 AM.575,"Temperature: 27.10°C\r\n",received
+12:14:14 AM.575,"Cloud Temperature: 27.10\r\n",received
+12:14:16 AM.613,"Temperature: 27.10°C\r\n",received
+12:14:16 AM.613,"Cloud Temperature: 27.10\r\n",received
+12:14:18 AM.661,"Temperature: 27.10°C\r\n",received
+12:14:18 AM.661,"Cloud Temperature: 27.10\r\n",received
+12:14:20 AM.733,"Temperature: 27.10°C\r\n",received
+12:14:20 AM.733,"Cloud Temperature: 27.10\r\n",received
+12:14:22 AM.780,"Temperature: 27.10°C\r\n",received
+12:14:22 AM.780,"Cloud Temperature: 27.10\r\n",received
+12:14:24 AM.829,"Temperature: 27.10°C\r\n",received
+12:14:24 AM.829,"Cloud Temperature: 27.10\r\n",received
+12:14:26 AM.876,"Temperature: 27.10°C\r\n",received
+12:14:26 AM.876,"Cloud Temperature: 27.10\r\n",received
+12:14:28 AM.919,"Temperature: 27.10°C\r\n",received
+12:14:28 AM.919,"Cloud Temperature: 27.10\r\n",received
+12:14:30 AM.978,"Temperature: 27.10°C\r\n",received
+12:14:30 AM.978,"Cloud Temperature: 27.10\r\n",received
+12:14:33 AM.52,"Temperature: 27.10°C\r\n",received
+12:14:33 AM.52,"Cloud Temperature: 27.10\r\n",received
+12:14:35 AM.62,"Temperature: 27.10°C\r\n",received
+12:14:35 AM.62,"Cloud Temperature: 27.10\r\n",received
+12:14:37 AM.137,"Temperature: 27.10°C\r\n",received
+12:14:37 AM.137,"Cloud Temperature: 27.10\r\n",received
+12:14:39 AM.176,"Temperature: 27.10°C\r\n",received
+12:14:39 AM.176,"Cloud Temperature: 27.10\r\n",received
+12:14:41 AM.222,"Temperature: 27.10°C\r\n",received
+12:14:41 AM.222,"Cloud Temperature: 27.10\r\n",received
+12:14:43 AM.278,"Temperature: 27.10°C\r\n",received
+12:14:43 AM.278,"Cloud Temperature: 27.10\r\n",received
+12:14:45 AM.323,"Temperature: 27.10°C\r\n",received
+12:14:45 AM.323,"Cloud Temperature: 27.10\r\n",received
+12:14:47 AM.368,"Temperature: 27.10°C\r\n",received
+12:14:47 AM.368,"Cloud Temperature: 27.10\r\n",received
+12:14:49 AM.419,"Temperature: 27.10°C\r\n",received
+12:14:49 AM.419,"Cloud Temperature: 27.10\r\n",received
+12:14:51 AM.463,"Temperature: 27.10°C\r\n",received
+12:14:51 AM.463,"Cloud Temperature: 27.10\r\n",received
+12:14:53 AM.515,"Temperature: 27.10°C\r\n",received
+12:14:53 AM.515,"Cloud Temperature: 27.10\r\n",received
+12:14:55 AM.581,"Temperature: 27.10°C\r\n",received
+12:14:55 AM.581,"Cloud Temperature: 27.10\r\n",received
+12:14:57 AM.627,"Temperature: 27.10°C\r\n",received
+12:14:57 AM.627,"Cloud Temperature: 27.10\r\n",received
+12:14:59 AM.679,"Temperature: 27.10°C\r\n",received
+12:14:59 AM.679,"Cloud Temperature: 27.10\r\n",received
+12:15:01 AM.724,"Temperature: 27.10°C\r\n",received
+12:15:01 AM.724,"Cloud Temperature: 27.10\r\n",received
+12:15:03 AM.763,"Temperature: 27.10°C\r\n",received
+12:15:03 AM.763,"Cloud Temperature: 27.10\r\n",received
+12:15:05 AM.821,"Temperature: 27.10°C\r\n",received
+12:15:05 AM.821,"Cloud Temperature: 27.10\r\n",received
+12:15:07 AM.865,"Temperature: 27.10°C\r\n",received
+12:15:07 AM.865,"Cloud Temperature: 27.10\r\n",received
+12:15:09 AM.913,"Temperature: 27.10°C\r\n",received
+12:15:09 AM.913,"Cloud Temperature: 27.10\r\n",received
+12:15:11 AM.954,"Temperature: 27.10°C\r\n",received
+12:15:11 AM.973,"Cloud Temperature: 27.10\r\n",received
+12:15:14 AM.34,"Temperature: 27.10°C\r\n",received
+12:15:14 AM.34,"Cloud Temperature: 27.10\r\n",received
+12:15:16 AM.82,"Temperature: 27.10°C\r\n",received
+12:15:16 AM.82,"Cloud Temperature: 27.10\r\n",received
+12:15:18 AM.121,"Temperature: 27.10°C\r\n",received
+12:15:18 AM.121,"Cloud Temperature: 27.10\r\n",received
+12:15:20 AM.166,"Temperature: 27.10°C\r\n",received
+12:15:20 AM.166,"Cloud Temperature: 27.10\r\n",received
+12:15:22 AM.212,"Temperature: 27.10°C\r\n",received
+12:15:22 AM.212,"Cloud Temperature: 27.10\r\n",received
+12:15:24 AM.265,"Temperature: 27.10°C\r\n",received
+12:15:24 AM.265,"Cloud Temperature: 27.10\r\n",received
+12:15:26 AM.311,"Temperature: 27.10°C\r\n",received
+12:15:26 AM.311,"Cloud Temperature: 27.10\r\n",received
+12:15:28 AM.357,"Temperature: 27.10°C\r\n",received
+12:15:28 AM.357,"Cloud Temperature: 27.10\r\n",received
+12:15:30 AM.421,"Temperature: 27.10°C\r\n",received
+12:15:30 AM.421,"Cloud Temperature: 27.10\r\n",received
+12:15:32 AM.467,"Temperature: 27.10°C\r\n",received
+12:15:32 AM.467,"Cloud Temperature: 27.10\r\n",received
+12:15:34 AM.519,"Temperature: 27.10°C\r\n",received
+12:15:34 AM.519,"Cloud Temperature: 27.10\r\n",received
+12:15:36 AM.565,"Temperature: 27.10°C\r\n",received
+12:15:36 AM.565,"Cloud Temperature: 27.10\r\n",received
+12:15:38 AM.623,"Temperature: 27.10°C\r\n",received
+12:15:38 AM.623,"Cloud Temperature: 27.10\r\n",received
+12:15:40 AM.668,"Temperature: 27.10°C\r\n",received
+12:15:40 AM.668,"Cloud Temperature: 27.10\r\n",received
+12:15:42 AM.713,"Temperature: 27.10°C\r\n",received
+12:15:42 AM.713,"Cloud Temperature: 27.10\r\n",received
+12:15:44 AM.763,"Temperature: 27.10°C\r\n",received
+12:15:44 AM.763,"Cloud Temperature: 27.10\r\n",received
+12:15:46 AM.820,"Temperature: 27.10°C\r\n",received
+12:15:46 AM.820,"Cloud Temperature: 27.10\r\n",received
+12:15:48 AM.870,"Temperature: 27.10°C\r\n",received
+12:15:48 AM.870,"Cloud Temperature: 27.10\r\n",received
+12:15:50 AM.921,"Temperature: 27.10°C\r\n",received
+12:15:50 AM.921,"Cloud Temperature: 27.10\r\n",received
+12:15:52 AM.971,"Temperature: 27.10°C\r\n",received
+12:15:52 AM.971,"Cloud Temperature: 27.10\r\n",received
+12:15:55 AM.16,"Temperature: 27.10°C\r\n",received
+12:15:55 AM.16,"Cloud Temperature: 27.10\r\n",received
+12:15:57 AM.66,"Temperature: 27.10°C\r\n",received
+12:15:57 AM.66,"Cloud Temperature: 27.10\r\n",received
+12:15:59 AM.119,"Temperature: 27.10°C\r\n",received
+12:15:59 AM.119,"Cloud Temperature: 27.10\r\n",received
+12:16:01 AM.186,"Temperature: 27.10°C\r\n",received
+12:16:01 AM.186,"Cloud Temperature: 27.10\r\n",received
+12:16:03 AM.220,"Temperature: 27.10°C\r\n",received
+12:16:03 AM.220,"Cloud Temperature: 27.10\r\n",received
+12:16:05 AM.274,"Temperature: 27.10°C\r\n",received
+12:16:05 AM.274,"Cloud Temperature: 27.10\r\n",received
+12:16:07 AM.318,"Temperature: 27.10°C\r\n",received
+12:16:07 AM.318,"Cloud Temperature: 27.10\r\n",received
+12:16:09 AM.376,"Temperature: 27.10°C\r\n",received
+12:16:09 AM.376,"Cloud Temperature: 27.10\r\n",received
+12:16:11 AM.415,"Temperature: 27.10°C\r\n",received
+12:16:11 AM.415,"Cloud Temperature: 27.10\r\n",received
+12:16:13 AM.462,"Temperature: 27.10°C\r\n",received
+12:16:13 AM.462,"Cloud Temperature: 27.10\r\n",received
+12:16:15 AM.515,"Temperature: 27.10°C\r\n",received
+12:16:15 AM.515,"Cloud Temperature: 27.10\r\n",received
+12:16:17 AM.557,"Temperature: 27.10°C\r\n",received
+12:16:17 AM.557,"Cloud Temperature: 27.10\r\n",received
+12:16:19 AM.630,"Temperature: 27.10°C\r\n",received
+12:16:19 AM.630,"Cloud Temperature: 27.10\r\n",received
+12:16:21 AM.670,"Temperature: 27.10°C\r\n",received
+12:16:21 AM.670,"Cloud Temperature: 27.10\r\n",received
+12:16:23 AM.724,"Temperature: 27.10°C\r\n",received
+12:16:23 AM.724,"Cloud Temperature: 27.10\r\n",received
+12:16:25 AM.769,"Temperature: 27.10°C\r\n",received
+12:16:25 AM.769,"Cloud Temperature: 27.10\r\n",received
+12:16:27 AM.820,"Temperature: 27.10°C\r\n",received
+12:16:27 AM.820,"Cloud Temperature: 27.10\r\n",received
+12:16:29 AM.868,"Temperature: 27.10°C\r\n",received
+12:16:29 AM.868,"Cloud Temperature: 27.10\r\n",received
+12:16:31 AM.917,"Temperature: 27.10°C\r\n",received
+12:16:31 AM.917,"Cloud Temperature: 27.10\r\n",received
+12:16:33 AM.966,"Temperature: 27.10°C\r\n",received
+12:16:33 AM.966,"Cloud Temperature: 27.10\r\n",received
+12:16:36 AM.12,"Temperature: 27.10°C\r\n",received
+12:16:36 AM.12,"Cloud Temperature: 27.10\r\n",received
+12:16:38 AM.71,"Temperature: 27.10°C\r\n",received
+12:16:38 AM.71,"Cloud Temperature: 27.10\r\n",received
+12:16:40 AM.117,"Temperature: 27.10°C\r\n",received
+12:16:40 AM.117,"Cloud Temperature: 27.10\r\n",received
+12:16:42 AM.166,"Temperature: 27.10°C\r\n",received
+12:16:42 AM.166,"Cloud Temperature: 27.10\r\n",received
+12:16:44 AM.215,"Temperature: 27.10°C\r\n",received
+12:16:44 AM.215,"Cloud Temperature: 27.10\r\n",received
+12:16:46 AM.259,"Temperature: 27.10°C\r\n",received
+12:16:46 AM.259,"Cloud Temperature: 27.10\r\n",received
+12:16:48 AM.309,"Temperature: 27.10°C\r\n",received
+12:16:48 AM.309,"Cloud Temperature: 27.10\r\n",received
+12:16:50 AM.369,"Temperature: 27.10°C\r\n",received
+12:16:50 AM.369,"Cloud Temperature: 27.10\r\n",received
+12:16:52 AM.411,"Temperature: 27.10°C\r\n",received
+12:16:52 AM.411,"Cloud Temperature: 27.10\r\n",received
+12:16:54 AM.451,"Temperature: 27.10°C\r\n",received
+12:16:54 AM.451,"Cloud Temperature: 27.10\r\n",received
+12:16:56 AM.524,"Temperature: 27.10°C\r\n",received
+12:16:56 AM.524,"Cloud Temperature: 27.10\r\n",received
+12:16:58 AM.575,"Temperature: 27.10°C\r\n",received
+12:16:58 AM.575,"Cloud Temperature: 27.10\r\n",received
+12:17:00 AM.617,"Temperature: 27.10°C\r\n",received
+12:17:00 AM.617,"Cloud Temperature: 27.10\r\n",received
+12:17:02 AM.662,"Temperature: 27.10°C\r\n",received
+12:17:02 AM.662,"Cloud Temperature: 27.10\r\n",received
+12:17:04 AM.709,"Temperature: 27.10°C\r\n",received
+12:17:04 AM.709,"Cloud Temperature: 27.10\r\n",received
+12:17:06 AM.761,"Temperature: 27.10°C\r\n",received
+12:17:06 AM.761,"Cloud Temperature: 27.10\r\n",received
+12:17:08 AM.805,"Temperature: 27.10°C\r\n",received
+12:17:08 AM.805,"Cloud Temperature: 27.10\r\n",received
+12:17:10 AM.853,"Temperature: 27.10°C\r\n",received
+12:17:10 AM.853,"Cloud Temperature: 27.10\r\n",received
+12:17:12 AM.928,"Temperature: 27.10°C\r\n",received
+12:17:12 AM.928,"Cloud Temperature: 27.10\r\n",received
+12:17:14 AM.974,"Temperature: 27.10°C\r\n",received
+12:17:14 AM.974,"Cloud Temperature: 27.10\r\n",received
+12:17:17 AM.15,"Temperature: 27.10°C\r\n",received
+12:17:17 AM.15,"Cloud Temperature: 27.10\r\n",received
+12:17:19 AM.60,"Temperature: 27.10°C\r\n",received
+12:17:19 AM.60,"Cloud Temperature: 27.10\r\n",received
+12:17:21 AM.120,"Temperature: 27.10°C\r\n",received
+12:17:21 AM.120,"Cloud Temperature: 27.10\r\n",received
+12:17:23 AM.157,"Temperature: 27.10°C\r\n",received
+12:17:23 AM.157,"Cloud Temperature: 27.10\r\n",received
+12:17:25 AM.204,"Temperature: 27.10°C\r\n",received
+12:17:25 AM.204,"Cloud Temperature: 27.10\r\n",received
+12:17:27 AM.258,"Temperature: 27.10°C\r\n",received
+12:17:27 AM.258,"Cloud Temperature: 27.10\r\n",received
+12:17:29 AM.310,"Temperature: 27.10°C\r\n",received
+12:17:29 AM.310,"Cloud Temperature: 27.10\r\n",received
+12:17:31 AM.356,"Temperature: 27.10°C\r\n",received
+12:17:31 AM.356,"Cloud Temperature: 27.10\r\n",received
+12:17:33 AM.424,"Temperature: 27.10°C\r\n",received
+12:17:33 AM.424,"Cloud Temperature: 27.10\r\n",received
+12:17:35 AM.470,"Temperature: 27.10°C\r\n",received
+12:17:35 AM.470,"Cloud Temperature: 27.10\r\n",received
+12:17:37 AM.517,"Temperature: 27.10°C\r\n",received
+12:17:37 AM.517,"Cloud Temperature: 27.10\r\n",received
+12:17:39 AM.562,"Temperature: 27.10°C\r\n",received
+12:17:39 AM.562,"Cloud Temperature: 27.10\r\n",received
+12:17:41 AM.607,"Temperature: 27.10°C\r\n",received
+12:17:41 AM.607,"Cloud Temperature: 27.10\r\n",received
+12:17:43 AM.653,"Temperature: 27.10°C\r\n",received
+12:17:43 AM.653,"Cloud Temperature: 27.10\r\n",received
+12:17:45 AM.694,"Temperature: 27.10°C\r\n",received
+12:17:45 AM.709,"Cloud Temperature: 27.10\r\n",received
+12:17:47 AM.762,"Temperature: 27.10°C\r\n",received
+12:17:47 AM.762,"Cloud Temperature: 27.10\r\n",received
+12:17:49 AM.806,"Temperature: 27.10°C\r\n",received
+12:17:49 AM.806,"Cloud Temperature: 27.10\r\n",received
+12:17:51 AM.868,"Temperature: 27.10°C\r\n",received
+12:17:51 AM.868,"Cloud Temperature: 27.10\r\n",received
+12:17:53 AM.915,"Temperature: 27.10°C\r\n",received
+12:17:53 AM.915,"Cloud Temperature: 27.10\r\n",received
+12:17:55 AM.958,"Temperature: 27.10°C\r\n",received
+12:17:55 AM.958,"Cloud Temperature: 27.10\r\n",received
+12:17:58 AM.13,"Temperature: 27.10°C\r\n",received
+12:17:58 AM.13,"Cloud Temperature: 27.10\r\n",received
+12:18:00 AM.54,"Temperature: 27.10°C\r\n",received
+12:18:00 AM.54,"Cloud Temperature: 27.10\r\n",received
+12:18:02 AM.110,"Temperature: 27.10°C\r\n",received
+12:18:02 AM.110,"Cloud Temperature: 27.10\r\n",received
+12:18:04 AM.166,"Temperature: 27.10°C\r\n",received
+12:18:04 AM.166,"Cloud Temperature: 27.10\r\n",received
+12:18:06 AM.207,"Temperature: 27.10°C\r\n",received
+12:18:06 AM.207,"Cloud Temperature: 27.10\r\n",received
+12:18:08 AM.252,"Temperature: 27.10°C\r\n",received
+12:18:08 AM.252,"Cloud Temperature: 27.10\r\n",received
+12:18:10 AM.318,"Temperature: 27.10°C\r\n",received
+12:18:10 AM.318,"Cloud Temperature: 27.10\r\n",received
+12:18:12 AM.367,"Temperature: 27.10°C\r\n",received
+12:18:12 AM.367,"Cloud Temperature: 27.10\r\n",received
+12:18:14 AM.402,"Temperature: 27.10°C\r\n",received
+12:18:14 AM.402,"Cloud Temperature: 27.10\r\n",received
+12:18:16 AM.466,"Temperature: 27.10°C\r\n",received
+12:18:16 AM.466,"Cloud Temperature: 27.10\r\n",received
+12:18:18 AM.500,"Temperature: 27.10°C\r\n",received
+12:18:18 AM.500,"Cloud Temperature: 27.10\r\n",received
+12:18:20 AM.551,"Temperature: 27.10°C\r\n",received
+12:18:20 AM.551,"Cloud Temperature: 27.10\r\n",received
+12:18:22 AM.599,"Temperature: 27.10°C\r\n",received
+12:18:22 AM.599,"Cloud Temperature: 27.10\r\n",received
+12:18:24 AM.650,"Temperature: 27.10°C\r\n",received
+12:18:24 AM.650,"Cloud Temperature: 27.10\r\n",received
+12:18:26 AM.694,"Temperature: 27.10°C\r\n",received
+12:18:26 AM.694,"Cloud Temperature: 27.10\r\n",received
+12:18:28 AM.759,"Temperature: 27.10°C\r\n",received
+12:18:28 AM.759,"Cloud Temperature: 27.10\r\n",received
+12:18:30 AM.804,"Temperature: 27.10°C\r\n",received
+12:18:30 AM.804,"Cloud Temperature: 27.10\r\n",received
+12:18:32 AM.851,"Temperature: 27.10°C\r\n",received
+12:18:32 AM.851,"Cloud Temperature: 27.10\r\n",received
+12:18:34 AM.911,"Temperature: 27.10°C\r\n",received
+12:18:34 AM.911,"Cloud Temperature: 27.10\r\n",received
+12:18:36 AM.955,"Temperature: 27.10°C\r\n",received
+12:18:36 AM.955,"Cloud Temperature: 27.10\r\n",received
+12:18:39 AM.5,"Temperature: 27.10°C\r\n",received
+12:18:39 AM.5,"Cloud Temperature: 27.10\r\n",received
+12:18:41 AM.53,"Temperature: 27.10°C\r\n",received
+12:18:41 AM.53,"Cloud Temperature: 27.10\r\n",received
+12:18:43 AM.103,"Temperature: 27.10°C\r\n",received
+12:18:43 AM.103,"Cloud Temperature: 27.10\r\n",received
+12:18:45 AM.161,"Temperature: 27.10°C\r\n",received
+12:18:45 AM.161,"Cloud Temperature: 27.10\r\n",received
+12:18:47 AM.215,"Temperature: 27.10°C\r\n",received
+12:18:47 AM.215,"Cloud Temperature: 27.10\r\n",received
+12:18:49 AM.263,"Temperature: 27.10°C\r\n",received
+12:18:49 AM.263,"Cloud Temperature: 27.10\r\n",received
+12:18:51 AM.304,"Temperature: 27.10°C\r\n",received
+12:18:51 AM.304,"Cloud Temperature: 27.10\r\n",received
+12:18:53 AM.356,"Temperature: 27.10°C\r\n",received
+12:18:53 AM.356,"Cloud Temperature: 27.10\r\n",received
+12:18:55 AM.405,"Temperature: 27.10°C\r\n",received
+12:18:55 AM.405,"Cloud Temperature: 27.10\r\n",received
+12:18:57 AM.448,"Temperature: 27.10°C\r\n",received
+12:18:57 AM.448,"Cloud Temperature: 27.10\r\n",received
+12:18:59 AM.498,"Temperature: 27.10°C\r\n",received
+12:18:59 AM.498,"Cloud Temperature: 27.10\r\n",received
+12:19:01 AM.549,"Temperature: 27.10°C\r\n",received
+12:19:01 AM.549,"Cloud Temperature: 27.10\r\n",received

@@ -1,0 +1,129 @@
+using UnityEngine;
+using UnityEngine.Networking;
+using UnityEngine.SceneManagement;
+using System.Collections;
+
+public class TemperatureColorChanger : MonoBehaviour
+{
+    public Renderer[] partRenderers;  // Assign this in the Inspector
+    private bool isFetching = false;  // Flag to check if fetching is in progress
+    public float updateInterval = 16f;  // Interval for fetching data in seconds (16 seconds)
+
+    // ThingSpeak API URL (replace with your actual channel ID)
+    private string apiUrl = "https://api.thingspeak.com/channels/2820909/feeds.json?results=1&api_key=DRDUK8LNQQ1UE20Z"; 
+
+    private void Start()
+    {
+        // Start fetching temperature data
+        StartCoroutine(FetchTemperatureFromAPI());
+    }
+
+    private IEnumerator FetchTemperatureFromAPI()
+    {
+        while (true)
+        {
+            if (!isFetching)
+            {
+                isFetching = true;
+
+                using (UnityWebRequest webRequest = UnityWebRequest.Get(apiUrl))
+                {
+                    // Send the request and wait for the response
+                    yield return webRequest.SendWebRequest();
+
+                    if (webRequest.result == UnityWebRequest.Result.ConnectionError || webRequest.result == UnityWebRequest.Result.ProtocolError)
+                    {
+                        Debug.LogError($"Error fetching data: {webRequest.error}");
+                    }
+                    else
+                    {
+                        // Log full response to help debug
+                        Debug.Log("Response from ThingSpeak: " + webRequest.downloadHandler.text);
+
+                        // Parse the JSON response
+                        ProcessTemperatureData(webRequest.downloadHandler.text);
+                    }
+                }
+
+                isFetching = false;
+            }
+
+            // Wait for the defined interval before fetching data again
+            yield return new WaitForSeconds(updateInterval);
+        }
+    }
+
+    private void ProcessTemperatureData(string jsonData)
+    {
+        // Parse JSON data to get temperature values
+        try
+        {
+            var data = JsonUtility.FromJson<ThingSpeakResponse>(jsonData);
+
+            if (data != null && data.feeds != null && data.feeds.Length > 0)
+            {
+                // Get the most recent temperature value from the API response (Field 1)
+                if (float.TryParse(data.feeds[0].field1, out float temperature))
+                {
+                    Debug.Log($"Temperature: {temperature} °C");
+
+                    // Change color based on temperature
+                    for (int i = 0; i < partRenderers.Length; i++)
+                    {
+                        Renderer renderer = partRenderers[i];
+                        if (renderer == null)
+                        {
+                            Debug.LogWarning($"Renderer at index {i} is null.");
+                            continue;
+                        }
+
+                        // Change color based on temperature
+                        if (temperature > 30)
+                        {
+                            renderer.sharedMaterial.color = Color.red;  // High temperature (Above 30°C)
+                        }
+                        else if (temperature > 0)
+                        {
+                            renderer.sharedMaterial.color = Color.green; // Medium temperature (Between 0 and 30°C)
+                        }
+                        else
+                        {
+                            renderer.sharedMaterial.color = Color.blue; // Low temperature (Below 0°C)
+                        }
+                    }
+                }
+                else
+                {
+                    Debug.LogError("Failed to parse the temperature value.");
+                }
+            }
+            else
+            {
+                Debug.LogError("No valid data found in the API response.");
+            }
+        }
+        catch (System.Exception e)
+        {
+            Debug.LogError($"Error processing temperature data: {e.Message}");
+        }
+    }
+
+    public void OnBackToMenuButtonClick()
+    {
+        // Load the "MenuScene"
+        SceneManager.LoadScene("MenuScene");
+    }
+
+    // Class to match the JSON structure from the ThingSpeak API
+    [System.Serializable]
+    public class ThingSpeakResponse
+    {
+        public Feed[] feeds;
+    }
+
+    [System.Serializable]
+    public class Feed
+    {
+        public string field1; // Assuming temperature is in "field1"
+    }
+}

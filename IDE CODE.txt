@@ -1,0 +1,65 @@
+#include <WiFiNINA.h>
+#include <DHT.h>
+#include <ThingSpeak.h>
+
+// Wi-Fi Credentials
+const char *ssid = "Venkatesan";
+const char *password = "8428276768";
+
+// ThingSpeak settings
+unsigned long channelID = 2820909;            // Replace with your ThingSpeak channel ID
+const char *writeAPIKey = "DHVSJAQLBSA7CHHD"; // Replace with your Write API Key
+
+// DHT11 settings
+#define DHTPIN 4             // Pin connected to DHT11
+#define DHTTYPE DHT11        // Specify sensor type
+DHT dht(DHTPIN, DHTTYPE);
+
+WiFiClient client;
+
+void setup() {
+  Serial.begin(115200);
+
+  // Connect to Wi-Fi
+  Serial.println("Connecting to WiFi...");
+  WiFi.begin(ssid, password);
+  while (WiFi.status() != WL_CONNECTED) {
+    delay(1000);
+    Serial.println("Connecting...");
+  }
+  Serial.println("WiFi connected!");
+
+  // Initialize DHT sensor
+  dht.begin();
+  Serial.println("DHT Sensor initialized");
+
+  // Initialize ThingSpeak
+  ThingSpeak.begin(client);
+}
+
+void loop() {
+  // Read temperature
+  float temperature = dht.readTemperature();
+
+  if (isnan(temperature)) {
+    Serial.println("Failed to read from DHT sensor!");
+  } else {
+    Serial.print("Temperature: ");
+    Serial.print(temperature);
+    Serial.println(" °C");
+
+    // Send temperature to ThingSpeak (Field 1)
+    ThingSpeak.setField(1, temperature);
+    int response = ThingSpeak.writeFields(channelID, writeAPIKey);
+
+    if (response == 200) {
+      Serial.println("Data sent to ThingSpeak successfully!");
+    } else {
+      Serial.print("Failed to send data. HTTP response code: ");
+      Serial.println(response);
+    }
+  }
+
+  // Wait 16 seconds before the next reading
+  delay(16000); // Adjusted to 16 seconds
+}
